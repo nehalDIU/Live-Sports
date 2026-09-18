@@ -357,7 +357,7 @@ def transform_sports_data(matches: List[Dict[str, Any]]) -> Tuple[List[Dict[str,
 
             quality = link.get("display_name") or "HD"
             channel_id = f"{event_id}-server{server_counter}"
-            channel_name = f"{name} - {league} [Server {server_counter} - {quality}]"
+            channel_name = f"Server {server_counter}"
 
             ch_dict = {
                 "id": channel_id,
@@ -443,8 +443,12 @@ def generate_m3u_content(events: List[Dict[str, Any]], channels: List[Dict[str, 
             ua = headers.get("User-Agent", USER_AGENT)
             ref = headers.get("Referer", DEFAULT_REFERER)
 
+            title = ev.get("custom_title") or ev.get("id", "")
+            league = ev.get("league", "")
+            m3u_title = f"{title} - {league} [{ch_name}]" if league else f"{title} [{ch_name}]"
+
             lines.append(
-                f'#EXTINF:-1 tvg-id="{event_id}" tvg-name="{ch_name}" tvg-logo="{ch_logo}" group-title="{sport}", {ch_name}'
+                f'#EXTINF:-1 tvg-id="{event_id}" tvg-name="{m3u_title}" tvg-logo="{ch_logo}" group-title="{sport}", {m3u_title}'
             )
             lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
             lines.append(f"#EXTVLCOPT:http-referrer={ref}")
