@@ -1,18 +1,6 @@
 #EXTM3U
 #PLAYLIST: Live Sports Auto-Sync Playlist
-#EXT-X-UPDATED: 2026-09-22T14:10:46.820335+00:00
-
-#EXTINF:-1 tvg-id="axsports-73903" tvg-name="WTA Singapore - WTA Singapore [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="Tennis", WTA Singapore - WTA Singapore [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/147445_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-73903" tvg-name="WTA Singapore - WTA Singapore [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="Tennis", WTA Singapore - WTA Singapore [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790171248-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-97c4283f60bd0bc88b8bc34324995281
+#EXT-X-UPDATED: 2026-09-22T18:09:01.344555+00:00
 
 #EXTINF:-1 tvg-id="axsports-66606" tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="Cricket", England vs Sri Lanka - Sri Lanka tour of England [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -30,115 +18,19 @@ https://livecdn-bp-iptv.rumsport10.live/live_abr/490_abr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790171255-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8e3dc5aee314f083de00fccd0a1d10a4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790186559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5fcf4f3f1783083922d073da5e79a957
 
 #EXTINF:-1 tvg-id="axsports-66606" tvg-name="England vs Sri Lanka - Sri Lanka tour of England [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="Cricket", England vs Sri Lanka - Sri Lanka tour of England [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790171260-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9b5ba77f13607cce72b53055580a58ac
-
-#EXTINF:-1 tvg-id="axsports-65225" tvg-name="ES1, CRO Race, Stage 1 - UCI Pro Series [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%201.jpg" group-title="Cycling", ES1, CRO Race, Stage 1 - UCI Pro Series [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-65225" tvg-name="ES1, CRO Race, Stage 1 - UCI Pro Series [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%201.jpg" group-title="Cycling", ES1, CRO Race, Stage 1 - UCI Pro Series [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790171267-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f05809557141da0c5678daad3dcaefa8
-
-#EXTINF:-1 tvg-id="axsports-66646" tvg-name="Players Championship 29 - Den Bosch - Players Championship [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="Football", Players Championship 29 - Den Bosch - Players Championship [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/114414_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66646" tvg-name="Players Championship 29 - Den Bosch - Players Championship [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg" group-title="Football", Players Championship 29 - Den Bosch - Players Championship [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790171278-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b7ac2cc749b1531bf1ebe2ca0b4ae4b4
-
-#EXTINF:-1 tvg-id="axsports-66648" tvg-name="Cronostaffetta mista Elite - Cycling World Championships [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronostaffetta%20mista%20Elite.jpg" group-title="Football", Cronostaffetta mista Elite - Cycling World Championships [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/1410_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66648" tvg-name="Cronostaffetta mista Elite - Cycling World Championships [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronostaffetta%20mista%20Elite.jpg" group-title="Football", Cronostaffetta mista Elite - Cycling World Championships [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790171283-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-737e7cdd3a643eb15a3acc74f16908ec
-
-#EXTINF:-1 tvg-id="axsports-66076" tvg-name="US Biskra vs JS Saoura - Ligue 1 [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Biskra%20vs%20JS%20Saoura.jpg" group-title="Football", US Biskra vs JS Saoura - Ligue 1 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66076" tvg-name="US Biskra vs JS Saoura - Ligue 1 [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Biskra%20vs%20JS%20Saoura.jpg" group-title="Football", US Biskra vs JS Saoura - Ligue 1 [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a73490efae1431b1dad3e6c/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66649" tvg-name="Men's Junior ITT - Cycling World Championships [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg" group-title="Football", Men's Junior ITT - Cycling World Championships [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/1409_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66649" tvg-name="Men's Junior ITT - Cycling World Championships [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg" group-title="Football", Men's Junior ITT - Cycling World Championships [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 3]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 5]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 6]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490_abr.m3u8
 
 #EXTINF:-1 tvg-id="axsports-66148" tvg-name="Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="Football", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/index.m3u8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fancode/chunks.m3u8?is_vip=false&token=1790186577-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2d98599de950a102c6076d474ebc8367
 
 #EXTINF:-1 tvg-id="axsports-66148" tvg-name="Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="Football", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -150,13 +42,49 @@ https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c-fan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/chunks.m3u8?is_vip=false&token=1790186582-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-150d7f1022b7772730fc435103145cae
 
 #EXTINF:-1 tvg-id="axsports-66148" tvg-name="Inter Milano W vs Häcken W - UEFA Champions League Women [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg" group-title="Football", Inter Milano W vs Häcken W - UEFA Champions League Women [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5c/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 3]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fancode/chunks.m3u8?is_vip=false&token=1790186595-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b2a37f33c7c70ecbcb8e3e5479365de5
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d-fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 5]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/chunks.m3u8?is_vip=false&token=1790186600-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5ac792f661e5ea878ba23dc135732ea8
+
+#EXTINF:-1 tvg-id="axsports-66139" tvg-name="Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 6]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg" group-title="Football", Bayern Munich W vs Manchester City W - UEFA Champions League Women [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9b8ea0bd04a161f15ad5d/index.m3u8
 
 #EXTINF:-1 tvg-id="axsports-66618" tvg-name="Tampa Bay Rays vs New York Yankees - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="Baseball", Tampa Bay Rays vs New York Yankees - MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -168,7 +96,7 @@ https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790186607-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3ea858b73e073b3152ca8a6061205f6
 
 #EXTINF:-1 tvg-id="axsports-72534" tvg-name="Chippenham Town vs Yate Town - FA Cup [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chippenham%20Town%20vs%20Yate%20Town.jpg" group-title="Football", Chippenham Town vs Yate Town - FA Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -722,6 +650,18 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/ind
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f45/index.m3u8
 
+#EXTINF:-1 tvg-id="axsports-69069" tvg-name="Gamba Osaka vs Tokushima Vortis - Emperor Cup [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20vs%20Tokushima%20Vortis.jpg" group-title="Football", Gamba Osaka vs Tokushima Vortis - Emperor Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d22/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-69069" tvg-name="Gamba Osaka vs Tokushima Vortis - Emperor Cup [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20vs%20Tokushima%20Vortis.jpg" group-title="Football", Gamba Osaka vs Tokushima Vortis - Emperor Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d22/index.m3u8
+
 #EXTINF:-1 tvg-id="axsports-69070" tvg-name="Kashima vs Ventforet Kofu - Emperor Cup [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Ventforet%20Kofu.jpg" group-title="Football", Kashima vs Ventforet Kofu - Emperor Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
@@ -757,6 +697,18 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1f/ind
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1f/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-69073" tvg-name="Machida Zelvia vs Tochigi City - Emperor Cup [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Machida%20Zelvia%20vs%20Tochigi%20City.jpg" group-title="Football", Machida Zelvia vs Tochigi City - Emperor Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1e/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-69073" tvg-name="Machida Zelvia vs Tochigi City - Emperor Cup [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Machida%20Zelvia%20vs%20Tochigi%20City.jpg" group-title="Football", Machida Zelvia vs Tochigi City - Emperor Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a994c3ceeaf4f1e6add4d1e/index.m3u8
 
 #EXTINF:-1 tvg-id="axsports-67367" tvg-name="Japan U23 vs Thailand U23 - Asian Games [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20U23%20vs%20Thailand%20U23.jpg" group-title="Sports", Japan U23 vs Thailand U23 - Asian Games [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -841,3 +793,159 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f4a/ind
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f4a/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66183" tvg-name="Iraq vs Oman - Gulf Cup of Nations [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iraq%20vs%20Oman.jpg" group-title="Football", Iraq vs Oman - Gulf Cup of Nations [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66183" tvg-name="Iraq vs Oman - Gulf Cup of Nations [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iraq%20vs%20Oman.jpg" group-title="Football", Iraq vs Oman - Gulf Cup of Nations [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8f3/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66181" tvg-name="Azerbaijan vs Tajikistan - Friendlies [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20vs%20Tajikistan.jpg" group-title="Sports", Azerbaijan vs Tajikistan - Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66181" tvg-name="Azerbaijan vs Tajikistan - Friendlies [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20vs%20Tajikistan.jpg" group-title="Sports", Azerbaijan vs Tajikistan - Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66184" tvg-name="Birmingham Legion vs Brooklyn - USL Championship [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Legion%20vs%20Brooklyn.jpg" group-title="Football", Birmingham Legion vs Brooklyn - USL Championship [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66184" tvg-name="Birmingham Legion vs Brooklyn - USL Championship [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Legion%20vs%20Brooklyn.jpg" group-title="Football", Birmingham Legion vs Brooklyn - USL Championship [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-70862" tvg-name="Wiedenbrück vs VfL Osnabrück - Friendlies Clubs [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wiedenbr%C3%BCck%20vs%20VfL%20Osnabr%C3%BCck.jpg" group-title="Football", Wiedenbrück vs VfL Osnabrück - Friendlies Clubs [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb3/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-70862" tvg-name="Wiedenbrück vs VfL Osnabrück - Friendlies Clubs [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wiedenbr%C3%BCck%20vs%20VfL%20Osnabr%C3%BCck.jpg" group-title="Football", Wiedenbrück vs VfL Osnabrück - Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb3/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-70863" tvg-name="Gibraltar vs Sao Tome and Principe - Friendlies [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Sao%20Tome%20and%20Principe.jpg" group-title="Sports", Gibraltar vs Sao Tome and Principe - Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-70863" tvg-name="Gibraltar vs Sao Tome and Principe - Friendlies [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Sao%20Tome%20and%20Principe.jpg" group-title="Sports", Gibraltar vs Sao Tome and Principe - Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66156" tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="Football", OH Leuven W vs Roma W - UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66156" tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="Football", OH Leuven W vs Roma W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66156" tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 3]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="Football", OH Leuven W vs Roma W - UEFA Champions League Women [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66156" tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="Football", OH Leuven W vs Roma W - UEFA Champions League Women [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66173" tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="Football", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27-fancode/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66173" tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="Football", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27-fancode/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66173" tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 3]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="Football", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66173" tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="Football", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-73905" tvg-name="France U21 vs Austria U18 - Friendlies [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20U21%20vs%20Austria%20U18.jpg" group-title="Sports", France U21 vs Austria U18 - Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb5/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-73905" tvg-name="France U21 vs Austria U18 - Friendlies [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20U21%20vs%20Austria%20U18.jpg" group-title="Sports", France U21 vs Austria U18 - Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb5/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67515" tvg-name="Washington Nationals vs Detroit Tigers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="Baseball", Washington Nationals vs Detroit Tigers - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67515" tvg-name="Washington Nationals vs Detroit Tigers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="Baseball", Washington Nationals vs Detroit Tigers - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66182" tvg-name="England U17 vs Republic of Ireland U17 - Friendlies [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20U17%20vs%20Republic%20of%20Ireland%20U17.jpg" group-title="Sports", England U17 vs Republic of Ireland U17 - Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb6/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66182" tvg-name="England U17 vs Republic of Ireland U17 - Friendlies [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20U17%20vs%20Republic%20of%20Ireland%20U17.jpg" group-title="Sports", England U17 vs Republic of Ireland U17 - Friendlies [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb6/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66192" tvg-name="Saudi Arabia vs Kuwait - Gulf Cup of Nations [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saudi%20Arabia%20vs%20Kuwait.jpg" group-title="Football", Saudi Arabia vs Kuwait - Gulf Cup of Nations [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1d/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66192" tvg-name="Saudi Arabia vs Kuwait - Gulf Cup of Nations [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saudi%20Arabia%20vs%20Kuwait.jpg" group-title="Football", Saudi Arabia vs Kuwait - Gulf Cup of Nations [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1d/index.m3u8
