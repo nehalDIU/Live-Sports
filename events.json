@@ -1,1 +1,1448 @@
-[]
+[
+  {
+    "id": "axsports-66617",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Minnesota Twins",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg"
+    },
+    "away_team": {
+      "name": "San Francisco Giants",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg"
+    },
+    "start_time": "2026-09-22T01:45:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-66617-server1",
+      "axsports-66617-server2",
+      "axsports-66617-server3",
+      "axsports-66617-server4"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Minnesota Twins vs San Francisco Giants",
+    "sort_order": 0
+  },
+  {
+    "id": "axsports-73904",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Dallas Wings",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Wings%20vs%20Phoenix%20Mercury.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Wings%20vs%20Phoenix%20Mercury.jpg"
+    },
+    "away_team": {
+      "name": "Phoenix Mercury",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Wings%20vs%20Phoenix%20Mercury.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Wings%20vs%20Phoenix%20Mercury.jpg"
+    },
+    "start_time": "2026-09-22T02:00:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-73904-server1",
+      "axsports-73904-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Wings%20vs%20Phoenix%20Mercury.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Dallas Wings vs Phoenix Mercury",
+    "sort_order": 1
+  },
+  {
+    "id": "axsports-73903",
+    "sport": "Tennis",
+    "league": "WTA Singapore",
+    "home_team": {
+      "name": "WTA Singapore",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg"
+    },
+    "start_time": "2026-09-22T03:00:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-73903-server1",
+      "axsports-73903-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "WTA Singapore",
+    "sort_order": 2
+  },
+  {
+    "id": "axsports-74809",
+    "sport": "Tennis",
+    "league": "WTA Seoul",
+    "home_team": {
+      "name": "Taylah Preston",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg"
+    },
+    "away_team": {
+      "name": "Himeno Sakatsume",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg"
+    },
+    "start_time": "2026-09-22T03:15:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-74809-server1",
+      "axsports-74809-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Taylah Preston vs Himeno Sakatsume",
+    "sort_order": 3
+  },
+  {
+    "id": "axsports-74808",
+    "sport": "Tennis",
+    "league": "WTA Seoul",
+    "home_team": {
+      "name": "Eva Lys",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eva%20Lys%20vs%20Elena-Gabriela%20Ruse.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eva%20Lys%20vs%20Elena-Gabriela%20Ruse.jpg"
+    },
+    "away_team": {
+      "name": "Elena-Gabriela Ruse",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eva%20Lys%20vs%20Elena-Gabriela%20Ruse.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eva%20Lys%20vs%20Elena-Gabriela%20Ruse.jpg"
+    },
+    "start_time": "2026-09-22T03:20:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-74808-server1",
+      "axsports-74808-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eva%20Lys%20vs%20Elena-Gabriela%20Ruse.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Eva Lys vs Elena-Gabriela Ruse",
+    "sort_order": 4
+  },
+  {
+    "id": "axsports-74807",
+    "sport": "Tennis",
+    "league": "WTA Seoul",
+    "home_team": {
+      "name": "Sohyun Park",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg"
+    },
+    "away_team": {
+      "name": "Robin Montgomery",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg"
+    },
+    "start_time": "2026-09-22T03:40:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-74807-server1",
+      "axsports-74807-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Sohyun Park vs Robin Montgomery",
+    "sort_order": 5
+  },
+  {
+    "id": "axsports-74810",
+    "sport": "Cricket",
+    "league": "T20 cricket",
+    "home_team": {
+      "name": "Japan",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg"
+    },
+    "away_team": {
+      "name": "India",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg"
+    },
+    "start_time": "2026-09-22T04:00:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-74810-server1",
+      "axsports-74810-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Japan vs India",
+    "sort_order": 6
+  },
+  {
+    "id": "axsports-67362",
+    "sport": "Sports",
+    "league": "Asian Games",
+    "home_team": {
+      "name": "Vietnam U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10964.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10964.png"
+    },
+    "away_team": {
+      "name": "Uzbekistan U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10963.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10963.png"
+    },
+    "start_time": "2026-09-22T05:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-67362-server1",
+      "axsports-67362-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20U23%20vs%20Uzbekistan%20U23.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Vietnam U23 vs Uzbekistan U23",
+    "sort_order": 7
+  },
+  {
+    "id": "axsports-67363",
+    "sport": "Sports",
+    "league": "Asian Games",
+    "home_team": {
+      "name": "Philippines U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10953.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10953.png"
+    },
+    "away_team": {
+      "name": "Kuwait U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10940.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10940.png"
+    },
+    "start_time": "2026-09-22T05:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-67363-server1",
+      "axsports-67363-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philippines%20U23%20vs%20Kuwait%20U23.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Philippines U23 vs Kuwait U23",
+    "sort_order": 8
+  },
+  {
+    "id": "axsports-67364",
+    "sport": "Sports",
+    "league": "Asian Games",
+    "home_team": {
+      "name": "Korea Republic U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10177.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10177.png"
+    },
+    "away_team": {
+      "name": "Saudi Arabia U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10955.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10955.png"
+    },
+    "start_time": "2026-09-22T10:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-67364-server1",
+      "axsports-67364-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korea%20Republic%20U23%20vs%20Saudi%20Arabia%20U23.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Korea Republic U23 vs Saudi Arabia U23",
+    "sort_order": 9
+  },
+  {
+    "id": "axsports-66606",
+    "sport": "Cricket",
+    "league": "Sri Lanka tour of England",
+    "home_team": {
+      "name": "England",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
+    },
+    "away_team": {
+      "name": "Sri Lanka",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
+    },
+    "start_time": "2026-09-22T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66606-server1",
+      "axsports-66606-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "England vs Sri Lanka",
+    "sort_order": 10
+  },
+  {
+    "id": "axsports-66646",
+    "sport": "Football",
+    "league": "Players Championship",
+    "home_team": {
+      "name": "Players Championship 29 - Den Bosch",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg"
+    },
+    "start_time": "2026-09-22T12:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66646-server1",
+      "axsports-66646-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2029%20-%20Den%20Bosch.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Players Championship 29 - Den Bosch",
+    "sort_order": 11
+  },
+  {
+    "id": "axsports-66648",
+    "sport": "Football",
+    "league": "Cycling World Championships",
+    "home_team": {
+      "name": "Mixed Relay",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mixed%20Relay.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mixed%20Relay.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mixed%20Relay.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mixed%20Relay.jpg"
+    },
+    "start_time": "2026-09-22T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66648-server1",
+      "axsports-66648-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mixed%20Relay.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Mixed Relay",
+    "sort_order": 12
+  },
+  {
+    "id": "axsports-66076",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "US Biskra",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/909.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/909.png"
+    },
+    "away_team": {
+      "name": "JS Saoura",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/914.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/914.png"
+    },
+    "start_time": "2026-09-22T16:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66076-server1",
+      "axsports-66076-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Biskra%20vs%20JS%20Saoura.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "US Biskra vs JS Saoura",
+    "sort_order": 13
+  },
+  {
+    "id": "axsports-66649",
+    "sport": "Football",
+    "league": "Cycling World Championships",
+    "home_team": {
+      "name": "Men's Junior ITT",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg"
+    },
+    "start_time": "2026-09-22T16:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66649-server1",
+      "axsports-66649-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Junior%20ITT.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Men's Junior ITT",
+    "sort_order": 14
+  },
+  {
+    "id": "axsports-66139",
+    "sport": "Football",
+    "league": "UEFA Champions League Women",
+    "home_team": {
+      "name": "Bayern Munich W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1860.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1860.png"
+    },
+    "away_team": {
+      "name": "Manchester City W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1854.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1854.png"
+    },
+    "start_time": "2026-09-22T16:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66139-server1",
+      "axsports-66139-server2",
+      "axsports-66139-server3",
+      "axsports-66139-server4",
+      "axsports-66139-server5",
+      "axsports-66139-server6"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20vs%20Manchester%20City%20W.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Bayern Munich W vs Manchester City W",
+    "sort_order": 15
+  },
+  {
+    "id": "axsports-66148",
+    "sport": "Football",
+    "league": "UEFA Champions League Women",
+    "home_team": {
+      "name": "Inter Milano W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7533.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7533.png"
+    },
+    "away_team": {
+      "name": "Häcken W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/16483.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/16483.png"
+    },
+    "start_time": "2026-09-22T16:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66148-server1",
+      "axsports-66148-server2",
+      "axsports-66148-server3",
+      "axsports-66148-server4"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20vs%20H%C3%A4cken%20W.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Inter Milano W vs Häcken W",
+    "sort_order": 16
+  },
+  {
+    "id": "axsports-66618",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Tampa Bay Rays",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg"
+    },
+    "away_team": {
+      "name": "New York Yankees",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg"
+    },
+    "start_time": "2026-09-22T17:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66618-server1",
+      "axsports-66618-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Tampa Bay Rays vs New York Yankees",
+    "sort_order": 17
+  },
+  {
+    "id": "axsports-72534",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Chippenham Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8147.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8147.png"
+    },
+    "away_team": {
+      "name": "Yate Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7762.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7762.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72534-server1",
+      "axsports-72534-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chippenham%20Town%20vs%20Yate%20Town.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Chippenham Town vs Yate Town",
+    "sort_order": 18
+  },
+  {
+    "id": "axsports-72858",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Braintree",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1831.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1831.png"
+    },
+    "away_team": {
+      "name": "Needham Market",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7735.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7735.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72858-server1",
+      "axsports-72858-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Braintree%20vs%20Needham%20Market.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Braintree vs Needham Market",
+    "sort_order": 19
+  },
+  {
+    "id": "axsports-72859",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Crowborough Athletic",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8760.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8760.png"
+    },
+    "away_team": {
+      "name": "Hampton & Richmond",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/4680.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/4680.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72859-server1",
+      "axsports-72859-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crowborough%20Athletic%20vs%20Hampton%20%26%20Richmond.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Crowborough Athletic vs Hampton & Richmond",
+    "sort_order": 20
+  },
+  {
+    "id": "axsports-72860",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Dagenham & Redbridge",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1821.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1821.png"
+    },
+    "away_team": {
+      "name": "Waltham Abbey",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7259.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7259.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72860-server1",
+      "axsports-72860-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dagenham%20%26%20Redbridge%20vs%20Waltham%20Abbey.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Dagenham & Redbridge vs Waltham Abbey",
+    "sort_order": 21
+  },
+  {
+    "id": "axsports-72862",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Farnborough",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7715.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7715.png"
+    },
+    "away_team": {
+      "name": "Uxbridge",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7257.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7257.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72862-server1",
+      "axsports-72862-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farnborough%20vs%20Uxbridge.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Farnborough vs Uxbridge",
+    "sort_order": 22
+  },
+  {
+    "id": "axsports-72863",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Farnham Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8783.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8783.png"
+    },
+    "away_team": {
+      "name": "Cirencester Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7629.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7629.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72863-server1",
+      "axsports-72863-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farnham%20Town%20vs%20Cirencester%20Town.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Farnham Town vs Cirencester Town",
+    "sort_order": 23
+  },
+  {
+    "id": "axsports-72864",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Gainsborough Trinity",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/4691.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/4691.png"
+    },
+    "away_team": {
+      "name": "Leamington",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8656.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8656.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72864-server1",
+      "axsports-72864-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gainsborough%20Trinity%20vs%20Leamington.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Gainsborough Trinity vs Leamington",
+    "sort_order": 24
+  },
+  {
+    "id": "axsports-72865",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Maidstone Utd",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1825.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1825.png"
+    },
+    "away_team": {
+      "name": "Cray Wanderers",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7711.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7711.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72865-server1",
+      "axsports-72865-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maidstone%20Utd%20vs%20Cray%20Wanderers.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Maidstone Utd vs Cray Wanderers",
+    "sort_order": 25
+  },
+  {
+    "id": "axsports-72866",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Truro City",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/4699.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/4699.png"
+    },
+    "away_team": {
+      "name": "Merthyr Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7732.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7732.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72866-server1",
+      "axsports-72866-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Truro%20City%20vs%20Merthyr%20Town.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Truro City vs Merthyr Town",
+    "sort_order": 26
+  },
+  {
+    "id": "axsports-72867",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Wimborne Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7758.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7758.png"
+    },
+    "away_team": {
+      "name": "Weston-super-Mare",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/4687.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/4687.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72867-server1",
+      "axsports-72867-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wimborne%20Town%20vs%20Weston-super-Mare.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Wimborne Town vs Weston-super-Mare",
+    "sort_order": 27
+  },
+  {
+    "id": "axsports-72868",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Wingate & Finchley",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7759.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7759.png"
+    },
+    "away_team": {
+      "name": "Hemel Hempstead Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8660.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8660.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72868-server1",
+      "axsports-72868-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wingate%20%26%20Finchley%20vs%20Hemel%20Hempstead%20Town.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Wingate & Finchley vs Hemel Hempstead Town",
+    "sort_order": 28
+  },
+  {
+    "id": "axsports-72869",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Worksop Town",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/7266.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/7266.png"
+    },
+    "away_team": {
+      "name": "AFC Telford United",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/4688.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/4688.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72869-server1",
+      "axsports-72869-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Worksop%20Town%20vs%20AFC%20Telford%20United.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Worksop Town vs AFC Telford United",
+    "sort_order": 29
+  },
+  {
+    "id": "axsports-73901",
+    "sport": "Football",
+    "league": "FA Cup",
+    "home_team": {
+      "name": "Dorking Wanderers",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8659.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8659.png"
+    },
+    "away_team": {
+      "name": "Southall",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/8941.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/8941.png"
+    },
+    "start_time": "2026-09-22T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-73901-server1",
+      "axsports-73901-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dorking%20Wanderers%20vs%20Southall.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Dorking Wanderers vs Southall",
+    "sort_order": 30
+  },
+  {
+    "id": "axsports-66127",
+    "sport": "Football",
+    "league": "UEFA Champions League Women",
+    "home_team": {
+      "name": "Arsenal W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1850.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1850.png"
+    },
+    "away_team": {
+      "name": "Køge W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/13982.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/13982.png"
+    },
+    "start_time": "2026-09-22T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66127-server1",
+      "axsports-66127-server2",
+      "axsports-66127-server3",
+      "axsports-66127-server4"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20W%20vs%20K%C3%B8ge%20W.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Arsenal W vs Køge W",
+    "sort_order": 31
+  },
+  {
+    "id": "axsports-66149",
+    "sport": "Football",
+    "league": "UEFA Champions League Women",
+    "home_team": {
+      "name": "Juventus W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1886.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1886.png"
+    },
+    "away_team": {
+      "name": "SL Benfica W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/15495.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/15495.png"
+    },
+    "start_time": "2026-09-22T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66149-server1",
+      "axsports-66149-server2",
+      "axsports-66149-server3",
+      "axsports-66149-server4"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20W%20vs%20SL%20Benfica%20W.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Juventus W vs SL Benfica W",
+    "sort_order": 32
+  },
+  {
+    "id": "axsports-66170",
+    "sport": "Football",
+    "league": "UEFA Champions League Women",
+    "home_team": {
+      "name": "Real Madrid W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/15224.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/15224.png"
+    },
+    "away_team": {
+      "name": "Paris Saint Germain W",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1667.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1667.png"
+    },
+    "start_time": "2026-09-22T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66170-server1",
+      "axsports-66170-server2",
+      "axsports-66170-server3",
+      "axsports-66170-server4",
+      "axsports-66170-server5",
+      "axsports-66170-server6"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20W%20vs%20Paris%20Saint%20Germain%20W.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Real Madrid W vs Paris Saint Germain W",
+    "sort_order": 33
+  },
+  {
+    "id": "axsports-66650",
+    "sport": "Football",
+    "league": "Cycling World Championships",
+    "home_team": {
+      "name": "Women's Junior ITT",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20Junior%20ITT.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20Junior%20ITT.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20Junior%20ITT.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20Junior%20ITT.jpg"
+    },
+    "start_time": "2026-09-22T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66650-server1",
+      "axsports-66650-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20Junior%20ITT.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Women's Junior ITT",
+    "sort_order": 34
+  },
+  {
+    "id": "axsports-66619",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Toronto Blue Jays",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg"
+    },
+    "away_team": {
+      "name": "Baltimore Orioles",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg"
+    },
+    "start_time": "2026-09-22T22:35:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66619-server1",
+      "axsports-66619-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Toronto Blue Jays vs Baltimore Orioles",
+    "sort_order": 35
+  },
+  {
+    "id": "axsports-66620",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "St. Louis Cardinals",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg"
+    },
+    "away_team": {
+      "name": "Pittsburgh Pirates",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg"
+    },
+    "start_time": "2026-09-22T22:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66620-server1",
+      "axsports-66620-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "St. Louis Cardinals vs Pittsburgh Pirates",
+    "sort_order": 36
+  },
+  {
+    "id": "axsports-66621",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Milwaukee Brewers",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg"
+    },
+    "away_team": {
+      "name": "Philadelphia Phillies",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg"
+    },
+    "start_time": "2026-09-22T22:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66621-server1",
+      "axsports-66621-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Milwaukee Brewers vs Philadelphia Phillies",
+    "sort_order": 37
+  },
+  {
+    "id": "axsports-66622",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Milwaukee Brewers",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg"
+    },
+    "away_team": {
+      "name": "Detroit Tigers",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg"
+    },
+    "start_time": "2026-09-22T22:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66622-server1",
+      "axsports-66622-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Washington Nationals vs Detroit Tigers",
+    "sort_order": 38
+  },
+  {
+    "id": "axsports-66623",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Cleveland Guardians",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg"
+    },
+    "away_team": {
+      "name": "Boston Red Sox",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg"
+    },
+    "start_time": "2026-09-22T22:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66623-server1",
+      "axsports-66623-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Cleveland Guardians vs Boston Red Sox",
+    "sort_order": 39
+  },
+  {
+    "id": "axsports-66624",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Tampa Bay Rays",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg"
+    },
+    "away_team": {
+      "name": "New York Yankees",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg"
+    },
+    "start_time": "2026-09-22T23:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66624-server1",
+      "axsports-66624-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Tampa Bay Rays vs New York Yankees",
+    "sort_order": 40
+  },
+  {
+    "id": "axsports-66625",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Cincinnati Reds",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg"
+    },
+    "away_team": {
+      "name": "Atlanta Braves",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg"
+    },
+    "start_time": "2026-09-22T23:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66625-server1",
+      "axsports-66625-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Cincinnati Reds vs Atlanta Braves",
+    "sort_order": 41
+  },
+  {
+    "id": "axsports-66609",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Connecticut Sun",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg"
+    },
+    "away_team": {
+      "name": "Washington Mystics",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg"
+    },
+    "start_time": "2026-09-22T23:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66609-server1",
+      "axsports-66609-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Connecticut Sun vs Washington Mystics",
+    "sort_order": 42
+  },
+  {
+    "id": "axsports-66626",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Chicago White Sox",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg"
+    },
+    "away_team": {
+      "name": "Kansas City Royals",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg"
+    },
+    "start_time": "2026-09-22T23:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66626-server1",
+      "axsports-66626-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Chicago White Sox vs Kansas City Royals",
+    "sort_order": 43
+  },
+  {
+    "id": "axsports-66627",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Miami Marlins",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg"
+    },
+    "away_team": {
+      "name": "Chicago Cubs",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg"
+    },
+    "start_time": "2026-09-22T23:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66627-server1",
+      "axsports-66627-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Miami Marlins vs Chicago Cubs",
+    "sort_order": 44
+  },
+  {
+    "id": "axsports-66628",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "New York Mets",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg"
+    },
+    "away_team": {
+      "name": "Texas Rangers",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg"
+    },
+    "start_time": "2026-09-23T00:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66628-server1",
+      "axsports-66628-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "New York Mets vs Texas Rangers",
+    "sort_order": 45
+  },
+  {
+    "id": "axsports-66610",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Toronto Tempo",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg"
+    },
+    "away_team": {
+      "name": "Chicago Sky",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg"
+    },
+    "start_time": "2026-09-23T00:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66610-server1",
+      "axsports-66610-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Toronto Tempo vs Chicago Sky",
+    "sort_order": 46
+  },
+  {
+    "id": "axsports-66611",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Minnesota Lynx",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg"
+    },
+    "away_team": {
+      "name": "Indiana Fever",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg"
+    },
+    "start_time": "2026-09-23T00:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66611-server1",
+      "axsports-66611-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Minnesota Lynx vs Indiana Fever",
+    "sort_order": 47
+  },
+  {
+    "id": "axsports-66629",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Arizona Diamondbacks",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg"
+    },
+    "away_team": {
+      "name": "Colorado Rockies",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg"
+    },
+    "start_time": "2026-09-23T00:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66629-server1",
+      "axsports-66629-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Arizona Diamondbacks vs Colorado Rockies",
+    "sort_order": 48
+  },
+  {
+    "id": "axsports-66630",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Houston Astros",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg"
+    },
+    "away_team": {
+      "name": "Seattle Mariners",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg"
+    },
+    "start_time": "2026-09-23T01:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66630-server1",
+      "axsports-66630-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Houston Astros vs Seattle Mariners",
+    "sort_order": 49
+  },
+  {
+    "id": "axsports-66631",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Los Angeles Angels",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg"
+    },
+    "away_team": {
+      "name": "Athletics",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg"
+    },
+    "start_time": "2026-09-23T01:40:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66631-server1",
+      "axsports-66631-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Los Angeles Angels vs Athletics",
+    "sort_order": 50
+  },
+  {
+    "id": "axsports-66632",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Minnesota Twins",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg"
+    },
+    "away_team": {
+      "name": "San Francisco Giants",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg"
+    },
+    "start_time": "2026-09-23T01:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66632-server1",
+      "axsports-66632-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Minnesota Twins vs San Francisco Giants",
+    "sort_order": 51
+  },
+  {
+    "id": "axsports-66612",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Los Angeles Sparks",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg"
+    },
+    "away_team": {
+      "name": "Las Vegas Aces",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg"
+    },
+    "start_time": "2026-09-23T02:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66612-server1",
+      "axsports-66612-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Los Angeles Sparks vs Las Vegas Aces",
+    "sort_order": 52
+  },
+  {
+    "id": "axsports-66613",
+    "sport": "Basketball",
+    "league": "WNBA",
+    "home_team": {
+      "name": "Golden State Valkyries",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg"
+    },
+    "away_team": {
+      "name": "Portland Fire",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg"
+    },
+    "start_time": "2026-09-23T02:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66613-server1",
+      "axsports-66613-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Golden State Valkyries vs Portland Fire",
+    "sort_order": 53
+  },
+  {
+    "id": "axsports-66633",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "San Diego Padres",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg"
+    },
+    "away_team": {
+      "name": "Los Angeles Dodgers",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg"
+    },
+    "start_time": "2026-09-23T02:10:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66633-server1",
+      "axsports-66633-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "San Diego Padres vs Los Angeles Dodgers",
+    "sort_order": 54
+  }
+]
