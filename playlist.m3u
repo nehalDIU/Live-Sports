@@ -1,246 +1,90 @@
 #EXTM3U
 #PLAYLIST: Live Sports Auto-Sync Playlist
-#EXT-X-UPDATED: 2026-09-22T23:48:08.700616+00:00
-
-#EXTINF:-1 tvg-id="axsports-66620" tvg-name="St. Louis Cardinals vs Pittsburgh Pirates - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg" group-title="Baseball", St. Louis Cardinals vs Pittsburgh Pirates - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55839_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66620" tvg-name="St. Louis Cardinals vs Pittsburgh Pirates - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg" group-title="Baseball", St. Louis Cardinals vs Pittsburgh Pirates - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790206361-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-62fbbf3b35d837d572353470207aa4ca
-
-#EXTINF:-1 tvg-id="axsports-66621" tvg-name="Milwaukee Brewers vs Philadelphia Phillies - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg" group-title="Baseball", Milwaukee Brewers vs Philadelphia Phillies - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55840_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66621" tvg-name="Milwaukee Brewers vs Philadelphia Phillies - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg" group-title="Baseball", Milwaukee Brewers vs Philadelphia Phillies - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790206369-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2b1b9597f4886d343f9a31f35741b2f5
-
-#EXTINF:-1 tvg-id="axsports-66622" tvg-name="Washington Nationals vs Detroit Tigers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="Baseball", Washington Nationals vs Detroit Tigers - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55838_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66622" tvg-name="Washington Nationals vs Detroit Tigers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="Baseball", Washington Nationals vs Detroit Tigers - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790206375-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-03ed96ae54f2cdeb6c881861b0a26eaf
-
-#EXTINF:-1 tvg-id="axsports-66623" tvg-name="Cleveland Guardians vs Boston Red Sox - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg" group-title="Baseball", Cleveland Guardians vs Boston Red Sox - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55841_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66623" tvg-name="Cleveland Guardians vs Boston Red Sox - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Boston%20Red%20Sox.jpg" group-title="Baseball", Cleveland Guardians vs Boston Red Sox - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790206382-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cab28c798b4cff56f99f64b242260e86
-
-#EXTINF:-1 tvg-id="axsports-66624" tvg-name="Tampa Bay Rays vs New York Yankees - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="Baseball", Tampa Bay Rays vs New York Yankees - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55836_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66624" tvg-name="Tampa Bay Rays vs New York Yankees - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20New%20York%20Yankees.jpg" group-title="Baseball", Tampa Bay Rays vs New York Yankees - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790206388-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d3e3af1f3fb6fa73f6018aec520134e3
-
-#EXTINF:-1 tvg-id="axsports-66625" tvg-name="Cincinnati Reds vs Atlanta Braves - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg" group-title="Baseball", Cincinnati Reds vs Atlanta Braves - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55842_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66625" tvg-name="Cincinnati Reds vs Atlanta Braves - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Atlanta%20Braves.jpg" group-title="Baseball", Cincinnati Reds vs Atlanta Braves - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790206394-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7c56f221e4061c9a5dbb3499d3c0db13
-
-#EXTINF:-1 tvg-id="axsports-66609" tvg-name="Connecticut Sun vs Washington Mystics - WNBA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg" group-title="Basketball", Connecticut Sun vs Washington Mystics - WNBA [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/510821_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66609" tvg-name="Connecticut Sun vs Washington Mystics - WNBA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Washington%20Mystics.jpg" group-title="Basketball", Connecticut Sun vs Washington Mystics - WNBA [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1790206400-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-59f6099811438c388f63d37d024dfa1a
-
-#EXTINF:-1 tvg-id="axsports-66626" tvg-name="Chicago White Sox vs Kansas City Royals - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg" group-title="Baseball", Chicago White Sox vs Kansas City Royals - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55843_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66626" tvg-name="Chicago White Sox vs Kansas City Royals - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg" group-title="Baseball", Chicago White Sox vs Kansas City Royals - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790206406-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6e047b98b2cb00b514db493a21da1ad0
-
-#EXTINF:-1 tvg-id="axsports-66627" tvg-name="Miami Marlins vs Chicago Cubs - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Miami Marlins vs Chicago Cubs - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55844_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66627" tvg-name="Miami Marlins vs Chicago Cubs - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Miami Marlins vs Chicago Cubs - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1790206412-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f7f14794594a4538f6eb47c0114aa345
-
-#EXTINF:-1 tvg-id="axsports-66610" tvg-name="Toronto Tempo vs Chicago Sky - WNBA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg" group-title="Basketball", Toronto Tempo vs Chicago Sky - WNBA [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/510822_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66610" tvg-name="Toronto Tempo vs Chicago Sky - WNBA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Tempo%20vs%20Chicago%20Sky.jpg" group-title="Basketball", Toronto Tempo vs Chicago Sky - WNBA [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510822_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66611" tvg-name="Minnesota Lynx vs Indiana Fever - WNBA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg" group-title="Basketball", Minnesota Lynx vs Indiana Fever - WNBA [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/436_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66611" tvg-name="Minnesota Lynx vs Indiana Fever - WNBA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Lynx%20vs%20Indiana%20Fever.jpg" group-title="Basketball", Minnesota Lynx vs Indiana Fever - WNBA [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/436_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66628" tvg-name="New York Mets vs Texas Rangers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg" group-title="Baseball", New York Mets vs Texas Rangers - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55845_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66628" tvg-name="New York Mets vs Texas Rangers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg" group-title="Baseball", New York Mets vs Texas Rangers - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55845_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66629" tvg-name="Arizona Diamondbacks vs Colorado Rockies - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg" group-title="Baseball", Arizona Diamondbacks vs Colorado Rockies - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55846_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66629" tvg-name="Arizona Diamondbacks vs Colorado Rockies - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg" group-title="Baseball", Arizona Diamondbacks vs Colorado Rockies - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55846_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66630" tvg-name="Houston Astros vs Seattle Mariners - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg" group-title="Baseball", Houston Astros vs Seattle Mariners - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55847_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66630" tvg-name="Houston Astros vs Seattle Mariners - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg" group-title="Baseball", Houston Astros vs Seattle Mariners - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55847_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66631" tvg-name="Los Angeles Angels vs Athletics - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg" group-title="Baseball", Los Angeles Angels vs Athletics - MLB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55850_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66631" tvg-name="Los Angeles Angels vs Athletics - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg" group-title="Baseball", Los Angeles Angels vs Athletics - MLB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850_abr.m3u8
+#EXT-X-UPDATED: 2026-09-23T03:59:45.703425+00:00
 
 #EXTINF:-1 tvg-id="axsports-66632" tvg-name="Minnesota Twins vs San Francisco Giants - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="Baseball", Minnesota Twins vs San Francisco Giants - MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55849_abr.m3u8
+https://livecdn-bp-iptv.rumsport10.live/live_abr/144992_abr.m3u8
 
 #EXTINF:-1 tvg-id="axsports-66632" tvg-name="Minnesota Twins vs San Francisco Giants - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="Baseball", Minnesota Twins vs San Francisco Giants - MLB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849_abr.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144992/720p/chunks.m3u8?is_vip=false&token=1790221653-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a3fca78c84edac7bc0cf9e2d09c1ebae
 
 #EXTINF:-1 tvg-id="axsports-66612" tvg-name="Los Angeles Sparks vs Las Vegas Aces - WNBA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg" group-title="Basketball", Los Angeles Sparks vs Las Vegas Aces - WNBA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/436_abr.m3u8
+https://livecdn-bp-iptv.rumsport10.live/live_abr/452_abr.m3u8
 
 #EXTINF:-1 tvg-id="axsports-66612" tvg-name="Los Angeles Sparks vs Las Vegas Aces - WNBA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Sparks%20vs%20Las%20Vegas%20Aces.jpg" group-title="Basketball", Los Angeles Sparks vs Las Vegas Aces - WNBA [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/436_abr.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1790221663-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c8a779fd68ec85de85f683af9fba415f
 
-#EXTINF:-1 tvg-id="axsports-66613" tvg-name="Golden State Valkyries vs Portland Fire - WNBA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg" group-title="Basketball", Golden State Valkyries vs Portland Fire - WNBA [Server 1]
+#EXTINF:-1 tvg-id="axsports-74866" tvg-name="Vegas Golden Knights vs San Jose Sharks - NHL [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegas%20Golden%20Knights%20vs%20San%20Jose%20Sharks.jpg" group-title="Sports", Vegas Golden Knights vs San Jose Sharks - NHL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/510824_abr.m3u8
+https://livecdn-bp-iptv.rumsport10.live/live_abr/408_abr.m3u8
 
-#EXTINF:-1 tvg-id="axsports-66613" tvg-name="Golden State Valkyries vs Portland Fire - WNBA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Portland%20Fire.jpg" group-title="Basketball", Golden State Valkyries vs Portland Fire - WNBA [Server 2]
+#EXTINF:-1 tvg-id="axsports-74866" tvg-name="Vegas Golden Knights vs San Jose Sharks - NHL [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegas%20Golden%20Knights%20vs%20San%20Jose%20Sharks.jpg" group-title="Sports", Vegas Golden Knights vs San Jose Sharks - NHL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510824_abr.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/408/720p/chunks.m3u8?is_vip=false&token=1790221670-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-42e1e7b3f6aa09e48635928f696fbc7e
 
-#EXTINF:-1 tvg-id="axsports-66633" tvg-name="San Diego Padres vs Los Angeles Dodgers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="Baseball", San Diego Padres vs Los Angeles Dodgers - MLB [Server 1]
+#EXTINF:-1 tvg-id="axsports-74867" tvg-name="Mammoth vs Kings - NHL [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mammoth%20vs%20Kings.jpg" group-title="Sports", Mammoth vs Kings - NHL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/55848_abr.m3u8
+https://livecdn-bp-iptv.rumsport10.live/live_abr/52445_abr.m3u8
 
-#EXTINF:-1 tvg-id="axsports-66633" tvg-name="San Diego Padres vs Los Angeles Dodgers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="Baseball", San Diego Padres vs Los Angeles Dodgers - MLB [Server 2]
+#EXTINF:-1 tvg-id="axsports-74867" tvg-name="Mammoth vs Kings - NHL [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mammoth%20vs%20Kings.jpg" group-title="Sports", Mammoth vs Kings - NHL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55848_abr.m3u8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52445/720p/chunks.m3u8?is_vip=false&token=1790221677-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e66d4b658d3c0f0b01aa534114d2056b
 
 #EXTINF:-1 tvg-id="axsports-74813" tvg-name="Vanuatu W vs New Caledonia W - Friendlies Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vanuatu%20W%20vs%20New%20Caledonia%20W.jpg" group-title="Sports", Vanuatu W vs New Caledonia W - Friendlies Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/chunks.m3u8?is_vip=false&token=1790221691-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df72628c776d384f8713d5f19a6bdbba
 
 #EXTINF:-1 tvg-id="axsports-74813" tvg-name="Vanuatu W vs New Caledonia W - Friendlies Women [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vanuatu%20W%20vs%20New%20Caledonia%20W.jpg" group-title="Sports", Vanuatu W vs New Caledonia W - Friendlies Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab15b997cb66c539a101f43/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-74871" tvg-name="WTA Singapore - WTA Singapore [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="Tennis", WTA Singapore - WTA Singapore [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/147445_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-74871" tvg-name="WTA Singapore - WTA Singapore [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="Tennis", WTA Singapore - WTA Singapore [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790219890-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9a9c4d292e8dc063dca9187b46838aef
+
+#EXTINF:-1 tvg-id="axsports-66634" tvg-name="PANCRASE 366 - MMA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PANCRASE%20366.jpg" group-title="MMA", PANCRASE 366 - MMA [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/498587_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-66634" tvg-name="PANCRASE 366 - MMA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PANCRASE%20366.jpg" group-title="MMA", PANCRASE 366 - MMA [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abr.m3u8
 
 #EXTINF:-1 tvg-id="axsports-67365" tvg-name="China PR U23 vs UAE U23 - Asian Games [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20PR%20U23%20vs%20UAE%20U23.jpg" group-title="Sports", China PR U23 vs UAE U23 - Asian Games [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -265,18 +109,6 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8cf/ind
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a92fb166bf7688dc3dbb8cf/index.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66634" tvg-name="PANCRASE 366 - MMA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PANCRASE%20366.jpg" group-title="MMA", PANCRASE 366 - MMA [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-bp-iptv.rumsport10.live/live_abr/498587_abr.m3u8
-
-#EXTINF:-1 tvg-id="axsports-66634" tvg-name="PANCRASE 366 - MMA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PANCRASE%20366.jpg" group-title="MMA", PANCRASE 366 - MMA [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abr.m3u8
 
 #EXTINF:-1 tvg-id="axsports-74814" tvg-name="Fiji W vs Solomon Islands W - Friendlies Women [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fiji%20W%20vs%20Solomon%20Islands%20W.jpg" group-title="Sports", Fiji W vs Solomon Islands W - Friendlies Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -733,3 +565,123 @@ https://livecdn-bp-iptv.rumsport10.live/live_abr/451_abr.m3u8
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67523" tvg-name="Chicago White Sox vs Kansas City Royals - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg" group-title="Baseball", Chicago White Sox vs Kansas City Royals - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55843_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67523" tvg-name="Chicago White Sox vs Kansas City Royals - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Kansas%20City%20Royals.jpg" group-title="Baseball", Chicago White Sox vs Kansas City Royals - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55843_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67524" tvg-name="Miami Marlins vs Chicago Cubs - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Miami Marlins vs Chicago Cubs - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55844_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67524" tvg-name="Miami Marlins vs Chicago Cubs - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Chicago%20Cubs.jpg" group-title="Baseball", Miami Marlins vs Chicago Cubs - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55844_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67525" tvg-name="New York Mets vs Texas Rangers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg" group-title="Baseball", New York Mets vs Texas Rangers - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55845_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67525" tvg-name="New York Mets vs Texas Rangers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Mets%20vs%20Texas%20Rangers.jpg" group-title="Baseball", New York Mets vs Texas Rangers - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55845_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67526" tvg-name="Arizona Diamondbacks vs Colorado Rockies - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg" group-title="Baseball", Arizona Diamondbacks vs Colorado Rockies - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55846_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67526" tvg-name="Arizona Diamondbacks vs Colorado Rockies - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona%20Diamondbacks%20vs%20Colorado%20Rockies.jpg" group-title="Baseball", Arizona Diamondbacks vs Colorado Rockies - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55846_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-46243" tvg-name="Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Real%20Salt%20Lake.jpg" group-title="Football", Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-69bc167ed2176ed490878901-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-46243" tvg-name="Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Real%20Salt%20Lake.jpg" group-title="Football", Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-69bc167ed2176ed490878901-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-46243" tvg-name="Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 3]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Real%20Salt%20Lake.jpg" group-title="Football", Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-livestream.rumsport10.live/sla/1-69bc167ed2176ed490878901/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-46243" tvg-name="Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 4]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Real%20Salt%20Lake.jpg" group-title="Football", Seattle Sounders vs Real Salt Lake - Major League Soccer [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-livestream.rumsport10.live/sla/1-69bc167ed2176ed490878901/index.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67527" tvg-name="Los Angeles Angels vs Athletics - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg" group-title="Baseball", Los Angeles Angels vs Athletics - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55847_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67527" tvg-name="Los Angeles Angels vs Athletics - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Athletics.jpg" group-title="Baseball", Los Angeles Angels vs Athletics - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55847_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67528" tvg-name="Houston Astros vs Seattle Mariners - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg" group-title="Baseball", Houston Astros vs Seattle Mariners - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55850_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67528" tvg-name="Houston Astros vs Seattle Mariners - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20Seattle%20Mariners.jpg" group-title="Baseball", Houston Astros vs Seattle Mariners - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55850_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67529" tvg-name="San Diego Padres vs Los Angeles Dodgers - MLB [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="Baseball", San Diego Padres vs Los Angeles Dodgers - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/55849_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67529" tvg-name="San Diego Padres vs Los Angeles Dodgers - MLB [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="Baseball", San Diego Padres vs Los Angeles Dodgers - MLB [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55849_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67542" tvg-name="INKA MMA 61 - MMA [Server 1]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/INKA%20MMA%2061.jpg" group-title="MMA", INKA MMA 61 - MMA [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-bp-iptv.rumsport10.live/live_abr/498587_abr.m3u8
+
+#EXTINF:-1 tvg-id="axsports-67542" tvg-name="INKA MMA 61 - MMA [Server 2]" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/INKA%20MMA%2061.jpg" group-title="MMA", INKA MMA 61 - MMA [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abr.m3u8
