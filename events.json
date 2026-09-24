@@ -26,32 +26,6 @@
     "sort_order": 0
   },
   {
-    "id": "axsports-79692",
-    "sport": "Tennis",
-    "league": "ATP Hangzhou",
-    "home_team": {
-      "name": "ATP Hangzhou",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg"
-    },
-    "start_time": "2026-09-24T05:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "axsports-79692-server1",
-      "axsports-79692-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "ATP Hangzhou",
-    "sort_order": 1
-  },
-  {
     "id": "axsports-79693",
     "sport": "Tennis",
     "league": "ATP Chengdu",
@@ -75,7 +49,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "ATP Chengdu",
-    "sort_order": 2
+    "sort_order": 1
   },
   {
     "id": "axsports-67506",
@@ -101,111 +75,85 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "South Africa vs Australia",
+    "sort_order": 2
+  },
+  {
+    "id": "axsports-67507",
+    "sport": "Cricket",
+    "league": "2nd ODI",
+    "home_team": {
+      "name": "England",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
+    },
+    "away_team": {
+      "name": "Sri Lanka",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
+    },
+    "start_time": "2026-09-24T11:30:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-67507-server1",
+      "axsports-67507-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "England vs Sri Lanka",
     "sort_order": 3
   },
   {
-    "id": "axsports-72910",
-    "sport": "Motorsport",
-    "league": "Formula 1 Practice",
-    "home_team": {
-      "name": "Azerbaijan Grand Prix 2026 Practice 1",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%201.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%201.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%201.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%201.jpg"
-    },
-    "start_time": "2026-09-24T08:25:00+00:00",
-    "status": "live",
-    "channels": [
-      "axsports-72910-server1",
-      "axsports-72910-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%201.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Azerbaijan Grand Prix 2026 Practice 1",
-    "sort_order": 4
-  },
-  {
-    "id": "axsports-81439",
-    "sport": "Football",
-    "league": "FIFA Asean Cup",
-    "home_team": {
-      "name": "Laos",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laos%20vs%20Brunei%20Darussalam.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laos%20vs%20Brunei%20Darussalam.jpg"
-    },
-    "away_team": {
-      "name": "Brunei Darussalam",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laos%20vs%20Brunei%20Darussalam.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laos%20vs%20Brunei%20Darussalam.jpg"
-    },
-    "start_time": "2026-09-24T09:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "axsports-81439-server1",
-      "axsports-81439-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laos%20vs%20Brunei%20Darussalam.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Laos vs Brunei Darussalam",
-    "sort_order": 5
-  },
-  {
-    "id": "axsports-72911",
-    "sport": "Football",
-    "league": "FIA Formula 2 Championship Qualifying",
-    "home_team": {
-      "name": "Baku, Azerbaijan",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan.jpg"
-    },
-    "start_time": "2026-09-24T10:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "axsports-72911-server1",
-      "axsports-72911-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Baku, Azerbaijan",
-    "sort_order": 6
-  },
-  {
-    "id": "axsports-66203",
+    "id": "axsports-66208",
     "sport": "Sports",
     "league": "Friendlies",
     "home_team": {
-      "name": "Japan",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/12.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/12.png"
+      "name": "Uzbekistan",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1568.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1568.png"
     },
     "away_team": {
-      "name": "Uruguay",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/7.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/7.png"
+      "name": "Iran",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/22.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/22.png"
     },
-    "start_time": "2026-09-24T10:05:00+00:00",
+    "start_time": "2026-09-24T14:00:00+00:00",
     "status": "live",
     "channels": [
-      "axsports-66203-server1",
-      "axsports-66203-server2"
+      "axsports-66208-server1",
+      "axsports-66208-server2"
     ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20Uruguay.jpg",
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20vs%20Iran.jpg",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Japan vs Uruguay",
-    "sort_order": 7
+    "custom_title": "Uzbekistan vs Iran",
+    "sort_order": 4
+  },
+  {
+    "id": "axsports-67553",
+    "sport": "Football",
+    "league": "Cycling World Championships",
+    "home_team": {
+      "name": "Women's U23 RR",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg"
+    },
+    "start_time": "2026-09-24T14:00:00+00:00",
+    "status": "live",
+    "channels": [
+      "axsports-67553-server1",
+      "axsports-67553-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Women's U23 RR",
+    "sort_order": 5
   },
   {
     "id": "axsports-66221",
@@ -231,7 +179,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Andorra vs Malta",
-    "sort_order": 8
+    "sort_order": 6
   },
   {
     "id": "axsports-66214",
@@ -257,7 +205,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Netherlands vs Germany",
-    "sort_order": 9
+    "sort_order": 7
   },
   {
     "id": "axsports-66215",
@@ -283,7 +231,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Serbia vs Greece",
-    "sort_order": 10
+    "sort_order": 8
   },
   {
     "id": "axsports-66216",
@@ -309,7 +257,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Portugal vs Wales",
-    "sort_order": 11
+    "sort_order": 9
   },
   {
     "id": "axsports-66217",
@@ -335,7 +283,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Norway vs Denmark",
-    "sort_order": 12
+    "sort_order": 10
   },
   {
     "id": "axsports-66218",
@@ -361,7 +309,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Austria vs Israel",
-    "sort_order": 13
+    "sort_order": 11
   },
   {
     "id": "axsports-66219",
@@ -387,7 +335,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Kosovo vs Rep. Of Ireland",
-    "sort_order": 14
+    "sort_order": 12
   },
   {
     "id": "axsports-66220",
@@ -413,7 +361,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Liechtenstein vs Lithuania",
-    "sort_order": 15
+    "sort_order": 13
   },
   {
     "id": "axsports-80030",
@@ -439,7 +387,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Philadelphia Flyers vs Boston Bruins",
-    "sort_order": 16
+    "sort_order": 14
   },
   {
     "id": "axsports-80031",
@@ -465,7 +413,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Detroit Red Wings vs Buffalo Sabres",
-    "sort_order": 17
+    "sort_order": 15
   },
   {
     "id": "axsports-80032",
@@ -491,7 +439,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Carolina Hurricanes vs Nashville Predators",
-    "sort_order": 18
+    "sort_order": 16
   },
   {
     "id": "axsports-80034",
@@ -517,7 +465,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "New York Rangers vs New Jersey Devils",
-    "sort_order": 19
+    "sort_order": 17
   },
   {
     "id": "axsports-80035",
@@ -543,7 +491,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Tampa Bay Lightning vs Florida Panthers",
-    "sort_order": 20
+    "sort_order": 18
   },
   {
     "id": "axsports-80036",
@@ -569,7 +517,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "St. Louis Blues vs Chicago Blackhawks",
-    "sort_order": 21
+    "sort_order": 19
   },
   {
     "id": "axsports-79696",
@@ -595,7 +543,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Green Bay Packers vs Atlanta Falcons",
-    "sort_order": 22
+    "sort_order": 20
   },
   {
     "id": "axsports-80038",
@@ -621,7 +569,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Seattle Kraken vs Calgary Flames",
-    "sort_order": 23
+    "sort_order": 21
   },
   {
     "id": "axsports-80039",
@@ -647,215 +595,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Vegas Golden Knights vs Utah Mammoth",
-    "sort_order": 24
-  },
-  {
-    "id": "axsports-66204",
-    "sport": "Sports",
-    "league": "Friendlies",
-    "home_team": {
-      "name": "South Korea",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/17.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/17.png"
-    },
-    "away_team": {
-      "name": "Ecuador",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/2382.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/2382.png"
-    },
-    "start_time": "2026-09-24T11:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-66204-server1",
-      "axsports-66204-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Korea%20vs%20Ecuador.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "South Korea vs Ecuador",
-    "sort_order": 25
-  },
-  {
-    "id": "axsports-66206",
-    "sport": "Sports",
-    "league": "Friendlies",
-    "home_team": {
-      "name": "Netherlands U19",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/10340.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/10340.png"
-    },
-    "away_team": {
-      "name": "Belgium U19",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/10327.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/10327.png"
-    },
-    "start_time": "2026-09-24T11:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-66206-server1",
-      "axsports-66206-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20U19%20vs%20Belgium%20U19.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Netherlands U19 vs Belgium U19",
-    "sort_order": 26
-  },
-  {
-    "id": "axsports-67507",
-    "sport": "Cricket",
-    "league": "2nd ODI",
-    "home_team": {
-      "name": "England",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
-    },
-    "away_team": {
-      "name": "Sri Lanka",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg"
-    },
-    "start_time": "2026-09-24T11:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-67507-server1",
-      "axsports-67507-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "England vs Sri Lanka",
-    "sort_order": 27
-  },
-  {
-    "id": "axsports-70866",
-    "sport": "Sports",
-    "league": "Friendlies",
-    "home_team": {
-      "name": "China",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1566.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1566.png"
-    },
-    "away_team": {
-      "name": "Maldives",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1549.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1549.png"
-    },
-    "start_time": "2026-09-24T11:35:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-70866-server1",
-      "axsports-70866-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20vs%20Maldives.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "China vs Maldives",
-    "sort_order": 28
-  },
-  {
-    "id": "axsports-67551",
-    "sport": "Cycling",
-    "league": "UCI Pro Series",
-    "home_team": {
-      "name": "ES1, CRO Race, Stage 3",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%203.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%203.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%203.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%203.jpg"
-    },
-    "start_time": "2026-09-24T12:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-67551-server1",
-      "axsports-67551-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%203.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "ES1, CRO Race, Stage 3",
-    "sort_order": 29
-  },
-  {
-    "id": "axsports-72912",
-    "sport": "Motorsport",
-    "league": "Formula 1 Practice",
-    "home_team": {
-      "name": "Azerbaijan Grand Prix 2026 Practice 2",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%202.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%202.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%202.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%202.jpg"
-    },
-    "start_time": "2026-09-24T12:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-72912-server1",
-      "axsports-72912-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026%20Practice%202.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Azerbaijan Grand Prix 2026 Practice 2",
-    "sort_order": 30
-  },
-  {
-    "id": "axsports-66207",
-    "sport": "Football",
-    "league": "Africa Cup of Nations - Qualification",
-    "home_team": {
-      "name": "Namibia",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1493.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1493.png"
-    },
-    "away_team": {
-      "name": "Congo",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1517.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1517.png"
-    },
-    "start_time": "2026-09-24T13:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-66207-server1",
-      "axsports-66207-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Namibia%20vs%20Congo.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Namibia vs Congo",
-    "sort_order": 31
-  },
-  {
-    "id": "axsports-81437",
-    "sport": "Football",
-    "league": "Africa Cup of Nations U20",
-    "home_team": {
-      "name": "Algeria U20",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/11017.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/11017.png"
-    },
-    "away_team": {
-      "name": "Tunisia U20",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/11049.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/11049.png"
-    },
-    "start_time": "2026-09-24T13:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-81437-server1",
-      "axsports-81437-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Algeria%20U20%20vs%20Tunisia%20U20.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Algeria U20 vs Tunisia U20",
-    "sort_order": 32
+    "sort_order": 22
   },
   {
     "id": "axsports-81438",
@@ -881,111 +621,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Libya U20 vs Egypt U20",
-    "sort_order": 33
-  },
-  {
-    "id": "axsports-66208",
-    "sport": "Sports",
-    "league": "Friendlies",
-    "home_team": {
-      "name": "Uzbekistan",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1568.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1568.png"
-    },
-    "away_team": {
-      "name": "Iran",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/22.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/22.png"
-    },
-    "start_time": "2026-09-24T14:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-66208-server1",
-      "axsports-66208-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20vs%20Iran.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Uzbekistan vs Iran",
-    "sort_order": 34
-  },
-  {
-    "id": "axsports-71683",
-    "sport": "Sports",
-    "league": "Friendlies",
-    "home_team": {
-      "name": "Romania U19",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/10378.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/10378.png"
-    },
-    "away_team": {
-      "name": "Hungary U19",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/10365.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/10365.png"
-    },
-    "start_time": "2026-09-24T14:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-71683-server1",
-      "axsports-71683-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Romania%20U19%20vs%20Hungary%20U19.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Romania U19 vs Hungary U19",
-    "sort_order": 35
-  },
-  {
-    "id": "axsports-67553",
-    "sport": "Football",
-    "league": "Cycling World Championships",
-    "home_team": {
-      "name": "Women's U23 RR",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg"
-    },
-    "away_team": {
-      "name": "",
-      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
-      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg"
-    },
-    "start_time": "2026-09-24T14:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-67553-server1",
-      "axsports-67553-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s%20U23%20RR.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Women's U23 RR",
-    "sort_order": 36
-  },
-  {
-    "id": "axsports-66209",
-    "sport": "Football",
-    "league": "Gulf Cup of Nations",
-    "home_team": {
-      "name": "United Arab Emirates",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1563.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1563.png"
-    },
-    "away_team": {
-      "name": "Yemen",
-      "logo": "https://rs.maycdn.com/fixture/teams/af/1550.png",
-      "flag": "https://rs.maycdn.com/fixture/teams/af/1550.png"
-    },
-    "start_time": "2026-09-24T15:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "axsports-66209-server1",
-      "axsports-66209-server2"
-    ],
-    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/United%20Arab%20Emirates%20vs%20Yemen.jpg",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "United Arab Emirates vs Yemen",
-    "sort_order": 37
+    "sort_order": 23
   },
   {
     "id": "axsports-66210",
@@ -1011,7 +647,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Congo DR vs Equatorial Guinea",
-    "sort_order": 38
+    "sort_order": 24
   },
   {
     "id": "axsports-66211",
@@ -1037,7 +673,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Libya vs Botswana",
-    "sort_order": 39
+    "sort_order": 25
   },
   {
     "id": "axsports-66212",
@@ -1063,7 +699,33 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Mauritania vs Central African Republic",
-    "sort_order": 40
+    "sort_order": 26
+  },
+  {
+    "id": "axsports-81445",
+    "sport": "Football",
+    "league": "2026 Presidents Cup",
+    "home_team": {
+      "name": "Chicago: 1a giornata",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%3A%201a%20giornata.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%3A%201a%20giornata.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%3A%201a%20giornata.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%3A%201a%20giornata.jpg"
+    },
+    "start_time": "2026-09-24T16:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-81445-server1",
+      "axsports-81445-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%3A%201a%20giornata.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Chicago: 1a giornata",
+    "sort_order": 27
   },
   {
     "id": "axsports-79184",
@@ -1089,7 +751,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Pittsburgh Pirates vs St.Louis Cardinals",
-    "sort_order": 41
+    "sort_order": 28
   },
   {
     "id": "axsports-67566",
@@ -1115,7 +777,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "America's Day At the Races",
-    "sort_order": 42
+    "sort_order": 29
   },
   {
     "id": "axsports-67554",
@@ -1141,7 +803,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Men's Junior RR",
-    "sort_order": 43
+    "sort_order": 30
   },
   {
     "id": "axsports-66213",
@@ -1167,7 +829,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Qatar vs Bahrain",
-    "sort_order": 44
+    "sort_order": 31
   },
   {
     "id": "axsports-67556",
@@ -1193,7 +855,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Chicago | Day 1",
-    "sort_order": 45
+    "sort_order": 32
   },
   {
     "id": "axsports-79185",
@@ -1219,7 +881,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Kansas City Royals vs Chicago White Sox",
-    "sort_order": 46
+    "sort_order": 33
   },
   {
     "id": "axsports-79186",
@@ -1245,7 +907,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Chicago Cubs vs Miami Marlins",
-    "sort_order": 47
+    "sort_order": 34
   },
   {
     "id": "axsports-79187",
@@ -1271,7 +933,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Texas Rangers vs New York Mets",
-    "sort_order": 48
+    "sort_order": 35
   },
   {
     "id": "axsports-66223",
@@ -1297,7 +959,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Cameroon vs Comoros",
-    "sort_order": 49
+    "sort_order": 36
   },
   {
     "id": "axsports-66224",
@@ -1323,7 +985,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Ivory Coast vs Ghana",
-    "sort_order": 50
+    "sort_order": 37
   },
   {
     "id": "axsports-66225",
@@ -1349,7 +1011,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Sierra Leone vs Zimbabwe",
-    "sort_order": 51
+    "sort_order": 38
   },
   {
     "id": "axsports-66226",
@@ -1375,7 +1037,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Tunisia vs Uganda",
-    "sort_order": 52
+    "sort_order": 39
   },
   {
     "id": "axsports-79188",
@@ -1401,7 +1063,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Colorado Rockies vs Arizona Diamondbacks",
-    "sort_order": 53
+    "sort_order": 40
   },
   {
     "id": "axsports-79189",
@@ -1427,7 +1089,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Philadelphia Phillies vs Milwaukee Brewers",
-    "sort_order": 54
+    "sort_order": 41
   },
   {
     "id": "axsports-79190",
@@ -1453,7 +1115,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Boston Red Sox vs Cleveland Guardians",
-    "sort_order": 55
+    "sort_order": 42
   },
   {
     "id": "axsports-67511",
@@ -1479,7 +1141,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Toronto Tempo vs Connecticut Sun",
-    "sort_order": 56
+    "sort_order": 43
   },
   {
     "id": "axsports-79191",
@@ -1505,7 +1167,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "New York Yankees vs Tampa Bay Rays",
-    "sort_order": 57
+    "sort_order": 44
   },
   {
     "id": "axsports-79192",
@@ -1531,7 +1193,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Atlanta Braves vs Cincinnati Reds",
-    "sort_order": 58
+    "sort_order": 45
   },
   {
     "id": "axsports-67512",
@@ -1557,7 +1219,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Chicago Sky vs Washington Mystics",
-    "sort_order": 59
+    "sort_order": 46
   },
   {
     "id": "axsports-69930",
@@ -1583,7 +1245,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Dominican Republic vs Nicaragua",
-    "sort_order": 60
+    "sort_order": 47
   },
   {
     "id": "axsports-67543",
@@ -1609,7 +1271,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "UFC BJJ 11: MUSUMECI vs MITCHELL",
-    "sort_order": 61
+    "sort_order": 48
   },
   {
     "id": "axsports-69931",
@@ -1635,7 +1297,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Cayman Islands vs Dominica",
-    "sort_order": 62
+    "sort_order": 49
   },
   {
     "id": "axsports-69932",
@@ -1661,7 +1323,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Haiti vs Trinidad and Tobago",
-    "sort_order": 63
+    "sort_order": 50
   },
   {
     "id": "axsports-66227",
@@ -1687,7 +1349,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Alebrijes de Oaxaca vs CA La Paz",
-    "sort_order": 64
+    "sort_order": 51
   },
   {
     "id": "axsports-66228",
@@ -1713,7 +1375,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Mineros de Zacatecas vs Piratas",
-    "sort_order": 65
+    "sort_order": 52
   },
   {
     "id": "axsports-79193",
@@ -1739,7 +1401,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Seattle Mariners vs Los Angeles Angels",
-    "sort_order": 66
+    "sort_order": 53
   },
   {
     "id": "axsports-79194",
@@ -1765,7 +1427,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Athletics vs Houston Astros",
-    "sort_order": 67
+    "sort_order": 54
   },
   {
     "id": "axsports-69933",
@@ -1791,7 +1453,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Costa Rica vs Curaçao",
-    "sort_order": 68
+    "sort_order": 55
   },
   {
     "id": "axsports-67513",
@@ -1817,7 +1479,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Golden State Valkyries vs Los Angeles Sparks",
-    "sort_order": 69
+    "sort_order": 56
   },
   {
     "id": "axsports-79195",
@@ -1843,7 +1505,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Los Angeles Dodgers vs San Diego Padres",
-    "sort_order": 70
+    "sort_order": 57
   },
   {
     "id": "axsports-67561",
@@ -1869,7 +1531,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Port Adelaide Power vs Western Bulldogs",
-    "sort_order": 71
+    "sort_order": 58
   },
   {
     "id": "axsports-72913",
@@ -1895,7 +1557,33 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Baku, Azerbaijan",
-    "sort_order": 72
+    "sort_order": 59
+  },
+  {
+    "id": "axsports-75851",
+    "sport": "Sports",
+    "league": "Asian Games",
+    "home_team": {
+      "name": "Uzbekistan U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10963.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10963.png"
+    },
+    "away_team": {
+      "name": "Saudi Arabia U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10955.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10955.png"
+    },
+    "start_time": "2026-09-25T05:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-75851-server1",
+      "axsports-75851-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20U23%20vs%20Saudi%20Arabia%20U23.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Uzbekistan U23 vs Saudi Arabia U23",
+    "sort_order": 60
   },
   {
     "id": "axsports-67562",
@@ -1921,7 +1609,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Richmond Tigers vs Carlton Blues",
-    "sort_order": 73
+    "sort_order": 61
   },
   {
     "id": "axsports-67559",
@@ -1947,7 +1635,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Auckland vs Manawatū",
-    "sort_order": 74
+    "sort_order": 62
   },
   {
     "id": "axsports-70868",
@@ -1973,7 +1661,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Finland U17 vs France U17",
-    "sort_order": 75
+    "sort_order": 63
   },
   {
     "id": "axsports-72914",
@@ -1999,7 +1687,7 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Azerbaijan Grand Prix 2026 Practice 3",
-    "sort_order": 76
+    "sort_order": 64
   },
   {
     "id": "axsports-70869",
@@ -2025,7 +1713,33 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Poland U17 vs Czechia U17",
-    "sort_order": 77
+    "sort_order": 65
+  },
+  {
+    "id": "axsports-81443",
+    "sport": "Football",
+    "league": "FIFA Asean Cup",
+    "home_team": {
+      "name": "Bangladesh",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1560.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1560.png"
+    },
+    "away_team": {
+      "name": "Malaysia",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1538.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1538.png"
+    },
+    "start_time": "2026-09-25T09:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-81443-server1",
+      "axsports-81443-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bangladesh%20vs%20Malaysia.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Bangladesh vs Malaysia",
+    "sort_order": 66
   },
   {
     "id": "axsports-70870",
@@ -2051,7 +1765,33 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Poland U19 vs Switzerland U19",
-    "sort_order": 78
+    "sort_order": 67
+  },
+  {
+    "id": "axsports-69144",
+    "sport": "Sports",
+    "league": "Friendlies",
+    "home_team": {
+      "name": "Australia",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/20.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/20.png"
+    },
+    "away_team": {
+      "name": "Brazil",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/6.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/6.png"
+    },
+    "start_time": "2026-09-25T10:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-69144-server1",
+      "axsports-69144-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Brazil.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Australia vs Brazil",
+    "sort_order": 68
   },
   {
     "id": "axsports-68351",
@@ -2077,6 +1817,344 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "North Queensland Cowboys vs Newcastle Knights",
+    "sort_order": 69
+  },
+  {
+    "id": "axsports-72915",
+    "sport": "Football",
+    "league": "FIA Formula 2 Championship Feature Race",
+    "home_team": {
+      "name": "Baku, Azerbaijan Race 1",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan%20Race%201.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan%20Race%201.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan%20Race%201.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan%20Race%201.jpg"
+    },
+    "start_time": "2026-09-25T10:10:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72915-server1",
+      "axsports-72915-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baku%2C%20Azerbaijan%20Race%201.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Baku, Azerbaijan Race 1",
+    "sort_order": 70
+  },
+  {
+    "id": "axsports-75852",
+    "sport": "Sports",
+    "league": "Asian Games",
+    "home_team": {
+      "name": "Korea Republic U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10177.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10177.png"
+    },
+    "away_team": {
+      "name": "Vietnam U23",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/10964.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/10964.png"
+    },
+    "start_time": "2026-09-25T10:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-75852-server1",
+      "axsports-75852-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Korea%20Republic%20U23%20vs%20Vietnam%20U23.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Korea Republic U23 vs Vietnam U23",
+    "sort_order": 71
+  },
+  {
+    "id": "axsports-72916",
+    "sport": "Motorsport",
+    "league": "Formula 1 Qualifying",
+    "home_team": {
+      "name": "Azerbaijan Grand Prix 2026",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg"
+    },
+    "start_time": "2026-09-25T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-72916-server1",
+      "axsports-72916-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Azerbaijan Grand Prix 2026",
+    "sort_order": 72
+  },
+  {
+    "id": "axsports-67552",
+    "sport": "Cycling",
+    "league": "UCI Pro Series",
+    "home_team": {
+      "name": "ES1, CRO Race, Stage 4",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%204.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%204.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%204.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%204.jpg"
+    },
+    "start_time": "2026-09-25T12:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-67552-server1",
+      "axsports-67552-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20CRO%20Race%2C%20Stage%204.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "ES1, CRO Race, Stage 4",
+    "sort_order": 73
+  },
+  {
+    "id": "axsports-66232",
+    "sport": "Football",
+    "league": "Africa Cup of Nations - Qualification",
+    "home_team": {
+      "name": "Tanzania",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1489.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1489.png"
+    },
+    "away_team": {
+      "name": "Guinea-Bissau",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1513.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1513.png"
+    },
+    "start_time": "2026-09-25T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66232-server1",
+      "axsports-66232-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tanzania%20vs%20Guinea-Bissau.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Tanzania vs Guinea-Bissau",
+    "sort_order": 74
+  },
+  {
+    "id": "axsports-74767",
+    "sport": "Sports",
+    "league": "Friendlies",
+    "home_team": {
+      "name": "Austria U18",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/21460.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/21460.png"
+    },
+    "away_team": {
+      "name": "Japan U18",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/22431.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/22431.png"
+    },
+    "start_time": "2026-09-25T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-74767-server1",
+      "axsports-74767-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20U18%20vs%20Japan%20U18.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Austria U18 vs Japan U18",
+    "sort_order": 75
+  },
+  {
+    "id": "axsports-81444",
+    "sport": "Football",
+    "league": "FIFA Asean Cup",
+    "home_team": {
+      "name": "Indonesia",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1571.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1571.png"
+    },
+    "away_team": {
+      "name": "Singapore",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1546.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1546.png"
+    },
+    "start_time": "2026-09-25T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-81444-server1",
+      "axsports-81444-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indonesia%20vs%20Singapore.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Indonesia vs Singapore",
+    "sort_order": 76
+  },
+  {
+    "id": "axsports-66413",
+    "sport": "Sports",
+    "league": "Friendlies",
+    "home_team": {
+      "name": "India",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1537.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1537.png"
+    },
+    "away_team": {
+      "name": "Panama",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/11.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/11.png"
+    },
+    "start_time": "2026-09-25T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66413-server1",
+      "axsports-66413-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/India%20vs%20Panama.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "India vs Panama",
+    "sort_order": 77
+  },
+  {
+    "id": "axsports-74768",
+    "sport": "Sports",
+    "league": "Friendlies",
+    "home_team": {
+      "name": "Serbia U18",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/22437.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/22437.png"
+    },
+    "away_team": {
+      "name": "Russia U18",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/25280.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/25280.png"
+    },
+    "start_time": "2026-09-25T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-74768-server1",
+      "axsports-74768-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20U18%20vs%20Russia%20U18.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Serbia U18 vs Russia U18",
+    "sort_order": 78
+  },
+  {
+    "id": "axsports-67555",
+    "sport": "Football",
+    "league": "Cycling World Championships",
+    "home_team": {
+      "name": "Men's U23 RR",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20U23%20RR.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20U23%20RR.jpg"
+    },
+    "away_team": {
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20U23%20RR.jpg",
+      "flag": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20U23%20RR.jpg"
+    },
+    "start_time": "2026-09-25T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-67555-server1",
+      "axsports-67555-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20U23%20RR.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Men's U23 RR",
     "sort_order": 79
+  },
+  {
+    "id": "axsports-70871",
+    "sport": "Football",
+    "league": "Friendlies Clubs",
+    "home_team": {
+      "name": "VfB Stuttgart",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/172.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/172.png"
+    },
+    "away_team": {
+      "name": "1. FC Heidenheim",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/180.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/180.png"
+    },
+    "start_time": "2026-09-25T14:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-70871-server1",
+      "axsports-70871-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20vs%201.%20FC%20Heidenheim.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "VfB Stuttgart vs 1. FC Heidenheim",
+    "sort_order": 80
+  },
+  {
+    "id": "axsports-66242",
+    "sport": "Football",
+    "league": "Africa Cup of Nations - Qualification",
+    "home_team": {
+      "name": "Niger",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1505.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1505.png"
+    },
+    "away_team": {
+      "name": "Lesotho",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1518.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1518.png"
+    },
+    "start_time": "2026-09-25T15:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "axsports-66242-server1",
+      "axsports-66242-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Niger%20vs%20Lesotho.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Niger vs Lesotho",
+    "sort_order": 81
+  },
+  {
+    "id": "axsports-66207",
+    "sport": "Football",
+    "league": "Africa Cup of Nations - Qualification",
+    "home_team": {
+      "name": "Namibia",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1493.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1493.png"
+    },
+    "away_team": {
+      "name": "Congo",
+      "logo": "https://rs.maycdn.com/fixture/teams/af/1517.png",
+      "flag": "https://rs.maycdn.com/fixture/teams/af/1517.png"
+    },
+    "start_time": "2026-09-24T13:00:00+00:00",
+    "status": "ended",
+    "channels": [
+      "axsports-66207-server1",
+      "axsports-66207-server2"
+    ],
+    "banner": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Namibia%20vs%20Congo.jpg",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Namibia vs Congo",
+    "sort_order": 82
   }
 ]
