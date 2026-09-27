@@ -1,545 +1,13 @@
 [
   {
-    "id": "axsports-70046-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Elite%20RR.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/1410/720p/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=bcec8aac1c4a03b94def4e6800408964&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70046-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men%27s%20Elite%20RR.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1410_abr.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67454-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=c1724e2310e6f444aeb45c7451597d53&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67454-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67454-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=1bdeed90c74a5207c0c62077216b4ca4&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67454-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Arsenal%20W.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67460-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=00d456a60380136889dafcf205ddda8e&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67460-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb-hd/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67460-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=42cf066013640d682327983f12f56dc8&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67460-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Netherlands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fb/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67461-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=5df438f87b02066f3ad08881e36deb8c&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67461-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe-hd/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67461-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=8decfa411ddfd8b9bcefe04a64cb6a98&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67461-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denmark%20vs%20Wales.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fe/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67462-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=e97c70356ed8ea5aba9840978a099d29&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67462-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd-hd/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67462-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=f5503daa57bdbfdfb22fb460e84b1299&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67462-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Kosovo.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fd/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67464-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc-hd/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=886290f1666806e48ebea7140f7e3bee&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67464-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc-hd/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67464-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=638cb7fb6e031e34d34990e5c0a0d9aa&x-time=1790526720",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67464-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Andorra.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9992835d732f70fc72b9fc/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67466-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Burgos%20vs%20Eldense.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73c/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=c293e5df810824467bf5902162e0eba3&x-time=1790526780",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67466-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Burgos%20vs%20Eldense.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73c/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67467-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eibar%20vs%20Las%20Palmas.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba739/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=70150aeb5fde3dac0f40895b70ccdb5f&x-time=1790526780",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67467-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eibar%20vs%20Las%20Palmas.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba739/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67468-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malta%20vs%20Liechtenstein.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab41ab5887f46718977b4f7/index.m3u8?is_vip=false&token=2e0ef8c3b2a7689bc7c989074b84145f4083ceab&x-sign=61d5d7eea69d7d8f2155f0850c379f38&x-time=1790526780",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67468-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malta%20vs%20Liechtenstein.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab41ab5887f46718977b4f7/index.m3u8",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
     "id": "axsports-79782-server1",
     "name": "Server 1",
     "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52456_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52456%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -558,273 +26,7 @@
     "country": "Global",
     "language": "English",
     "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52456_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79783-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Browns%20vs%20Carolina%20Panthers.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52455_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79783-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Browns%20vs%20Carolina%20Panthers.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52455_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79784-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Lions%20vs%20New%20York%20Jets.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52457_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79784-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Lions%20vs%20New%20York%20Jets.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52457_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79785-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indianapolis%20Colts%20vs%20Houston%20Texans.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52460_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79785-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indianapolis%20Colts%20vs%20Houston%20Texans.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52460_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79786-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52461_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79786-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52461_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79787-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Tennessee%20Titans.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79787-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Tennessee%20Titans.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79788-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52459_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79788-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52459_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79789-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Seattle%20Seahawks.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52458_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-79789-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Seattle%20Seahawks.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52458_abr.m3u8",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -842,8 +44,8 @@
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/52462_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52464%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -861,8 +63,8 @@
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52462_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52464_abr.m3u8",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -874,16 +76,16 @@
     "drm": null
   },
   {
-    "id": "axsports-67479-server1",
+    "id": "axsports-79789-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Seattle%20Seahawks.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead5217/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52463%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -893,16 +95,16 @@
     "drm": null
   },
   {
-    "id": "axsports-67479-server2",
+    "id": "axsports-79789-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Seattle%20Seahawks.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5217/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463_abr.m3u8",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -912,16 +114,16 @@
     "drm": null
   },
   {
-    "id": "axsports-67480-server1",
+    "id": "axsports-79788-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead5216/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52462%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -931,16 +133,16 @@
     "drm": null
   },
   {
-    "id": "axsports-67480-server2",
+    "id": "axsports-79788-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5216/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52462_abr.m3u8",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -950,16 +152,16 @@
     "drm": null
   },
   {
-    "id": "axsports-67481-server1",
+    "id": "axsports-79783-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Browns%20vs%20Carolina%20Panthers.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead5215/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52457%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -969,16 +171,168 @@
     "drm": null
   },
   {
-    "id": "axsports-67481-server2",
+    "id": "axsports-79783-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Browns%20vs%20Carolina%20Panthers.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5215/index.m3u8",
-    "is_live": false,
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52457_abr.m3u8",
+    "is_live": true,
     "is_trending": false,
-    "quality": "WHD",
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79784-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Lions%20vs%20New%20York%20Jets.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52458%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79784-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Lions%20vs%20New%20York%20Jets.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52458_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79785-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indianapolis%20Colts%20vs%20Houston%20Texans.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52459%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79785-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Indianapolis%20Colts%20vs%20Houston%20Texans.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52459_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79787-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Tennessee%20Titans.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52461%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79787-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Tennessee%20Titans.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52461_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79786-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F52460%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79786-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52460_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -994,8 +348,8 @@
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55835%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -1014,7 +368,7 @@
     "country": "Global",
     "language": "English",
     "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55835_abr.m3u8",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -1026,14 +380,166 @@
     "drm": null
   },
   {
-    "id": "axsports-79240-server1",
+    "id": "axsports-67470-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Baltimore%20Orioles.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/55849_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520b-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67470-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b-hd/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67470-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520b%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67470-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67472-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puebla%20W%20vs%20Monterrey%20W.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520e%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67472-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puebla%20W%20vs%20Monterrey%20W.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520e/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67473-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20vs%20United%20Arab%20Emirates.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead520f%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67473-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20vs%20United%20Arab%20Emirates.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520f/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-70071-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F510821%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -1045,14 +551,470 @@
     "drm": null
   },
   {
-    "id": "axsports-79240-server2",
+    "id": "axsports-70071-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Baltimore%20Orioles.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55849_abr.m3u8",
-    "is_live": false,
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510821_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67481-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5215-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67481-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5215-hd/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67481-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5215%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67481-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Israel%20vs%20Rep.%20Of%20Ireland.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5215/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67480-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5216-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67480-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5216-hd/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67480-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5216%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67480-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Portugal.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5216/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67479-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5217-hd%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67479-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5217-hd/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "GHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67479-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a999283018287f1cead5217%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67479-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20vs%20Greece.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead5217/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-69947-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guyana%20vs%20Cayman%20Islands.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9fe3b95c0020a997ffc998%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-69947-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guyana%20vs%20Cayman%20Islands.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fe3b95c0020a997ffc998/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67486-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735-fancode%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67486-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735-fancode/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67486-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-67486-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735/index.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-70103-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%7C%20Day%204.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F287%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-70103-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%7C%20Day%204.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79228-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Tampa%20Bay%20Rays.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55840%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79228-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Tampa%20Bay%20Rays.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55840_abr.m3u8",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79226-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Los%20Angeles%20Dodgers.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport10.live%2Flive_abr%2F55839%2F720p%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-79226-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Los%20Angeles%20Dodgers.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/55839_abr.m3u8",
+    "is_live": true,
     "is_trending": false,
     "quality": "FHD",
     "headers": {
@@ -1292,51 +1254,13 @@
     "drm": null
   },
   {
-    "id": "axsports-70109-server1",
+    "id": "axsports-68293-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%27s%20Day%20At%20the%20Races.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium%20vs%20France.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/451_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70109-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%27s%20Day%20At%20the%20Races.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70894-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jordan%20vs%20Syria.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6ab41ab5887f46718977b4f8/index.m3u8",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e850/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1349,13 +1273,13 @@
     "drm": null
   },
   {
-    "id": "axsports-70894-server2",
+    "id": "axsports-68293-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jordan%20vs%20Syria.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium%20vs%20France.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab41ab5887f46718977b4f8/index.m3u8",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e850/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1368,89 +1292,13 @@
     "drm": null
   },
   {
-    "id": "axsports-67470-server1",
+    "id": "axsports-68294-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye%20vs%20Italy.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b-hd/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67470-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b-hd/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "GHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67470-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67470-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.N.A.M.%20-%20Pumas%20vs%20Atletico%20San%20Luis.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520b/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67472-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puebla%20W%20vs%20Monterrey%20W.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead520e/index.m3u8",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84f/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1463,13 +1311,13 @@
     "drm": null
   },
   {
-    "id": "axsports-67472-server2",
+    "id": "axsports-68294-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puebla%20W%20vs%20Monterrey%20W.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye%20vs%20Italy.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520e/index.m3u8",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84f/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1482,13 +1330,13 @@
     "drm": null
   },
   {
-    "id": "axsports-67473-server1",
+    "id": "axsports-68295-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20vs%20United%20Arab%20Emirates.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northern%20Ireland%20vs%20Hungary.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead520f/index.m3u8",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84e/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1501,203 +1349,13 @@
     "drm": null
   },
   {
-    "id": "axsports-67473-server2",
+    "id": "axsports-68295-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20vs%20United%20Arab%20Emirates.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northern%20Ireland%20vs%20Hungary.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead520f/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70071-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/436_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70071-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/436_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70106-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%206%3A%20Barber%20Motorsports%20Park.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-70106-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%206%3A%20Barber%20Motorsports%20Park.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abr.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67486-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735-fancode/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67486-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735-fancode/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "FHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 1,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67486-server3",
-    "name": "Server 3",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 2,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-67486-server4",
-    "name": "Server 4",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oviedo%20vs%20Sporting%20Gijon.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba735/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 3,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-69947-server1",
-    "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guyana%20vs%20Cayman%20Islands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9fe3b95c0020a997ffc998/index.m3u8",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "WHD",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Referer": "https://iframe.rumsport8.live"
-    },
-    "sort_order": 0,
-    "proxy": false,
-    "drm": null
-  },
-  {
-    "id": "axsports-69947-server2",
-    "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guyana%20vs%20Cayman%20Islands.jpg",
-    "category": "events",
-    "country": "Global",
-    "language": "English",
-    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fe3b95c0020a997ffc998/index.m3u8",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84e/index.m3u8",
     "is_live": false,
     "is_trending": false,
     "quality": "WHD",
@@ -1710,16 +1368,16 @@
     "drm": null
   },
   {
-    "id": "axsports-70103-server1",
+    "id": "axsports-68296-server1",
     "name": "Server 1",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%7C%20Day%204.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sweden%20vs%20Poland.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/287_abr.m3u8",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84c/index.m3u8",
     "is_live": false,
     "is_trending": false,
-    "quality": "FHD",
+    "quality": "WHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -1729,16 +1387,16 @@
     "drm": null
   },
   {
-    "id": "axsports-70103-server2",
+    "id": "axsports-68296-server2",
     "name": "Server 2",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%7C%20Day%204.jpg",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sweden%20vs%20Poland.jpg",
     "category": "events",
     "country": "Global",
     "language": "English",
-    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/287_abr.m3u8",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9ae41de4f896100f36e84c/index.m3u8",
     "is_live": false,
     "is_trending": false,
-    "quality": "FHD",
+    "quality": "WHD",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "Referer": "https://iframe.rumsport8.live"
@@ -1934,6 +1592,44 @@
       "Referer": "https://iframe.rumsport8.live"
     },
     "sort_order": 3,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-69141-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/City%20London%20vs%20Camb%C3%A9.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a999283018287f1cead523b/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-69141-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/City%20London%20vs%20Camb%C3%A9.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a999283018287f1cead523b/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
     "proxy": false,
     "drm": null
   },
@@ -2884,6 +2580,158 @@
       "Referer": "https://iframe.rumsport8.live"
     },
     "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68291-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zimbabwe%20vs%20Congo%20DR.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9ff1c4d83fdbd7c3df92a1/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68291-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zimbabwe%20vs%20Congo%20DR.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9ff1c4d83fdbd7c3df92a1/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-72887-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201%20-%20Leicester.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-bp-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-72887-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201%20-%20Leicester.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abr.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68292-server1",
+    "name": "Server 1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leganes%20vs%20Castell%C3%B3n.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba737-fancode/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 0,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68292-server2",
+    "name": "Server 2",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leganes%20vs%20Castell%C3%B3n.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba737-fancode/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "FHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 1,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68292-server3",
+    "name": "Server 3",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leganes%20vs%20Castell%C3%B3n.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba737/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 2,
+    "proxy": false,
+    "drm": null
+  },
+  {
+    "id": "axsports-68292-server4",
+    "name": "Server 4",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leganes%20vs%20Castell%C3%B3n.jpg",
+    "category": "events",
+    "country": "Global",
+    "language": "English",
+    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba737/index.m3u8",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "WHD",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://iframe.rumsport8.live"
+    },
+    "sort_order": 3,
     "proxy": false,
     "drm": null
   }
