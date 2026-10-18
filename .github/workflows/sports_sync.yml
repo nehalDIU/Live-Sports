@@ -2,8 +2,8 @@ name: Live Sports Auto-Sync & Database Update
 
 on:
   schedule:
-    # Runs every 20 minutes
-    - cron: '*/20 * * * *'
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,6 +12,7 @@ permissions:
 jobs:
   sync-live-sports:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -29,15 +30,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch from Main Source & Update Database
+      - name: Fetch from PlayZ TV & Update Database
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           ADMIN_SECRET_TOKEN: ${{ secrets.ADMIN_SECRET_TOKEN }}
-          CATEGORY_ID: ${{ vars.CATEGORY_ID || 'events' }}
-          SPORTS_JSON_URL: 'https://raw.githubusercontent.com/srhady/axsports/main/live_sports.json'
+          MAX_WORKERS: 16
+          PURGE_HOURS: 3
         run: |
-          python main.py --sync-db
+          python sync_live_events.py
 
       - name: Commit and push updated files
         run: |
