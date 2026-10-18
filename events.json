@@ -31,34 +31,6 @@
     "sort_order": 0
   },
   {
-    "id": "event-cricket-south-africa-vs-australia-1792308600",
-    "sport": "Cricket",
-    "league": "ICC World Test Championship",
-    "home_team": {
-      "name": "South Africa",
-      "flag": "https://img.sofascore.com/api/v1/team/187747/image"
-    },
-    "away_team": {
-      "name": "Australia",
-      "flag": "https://img.sofascore.com/api/v1/team/187746/image"
-    },
-    "start_time": "2026-10-18T07:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-cricket-south-africa-vs-australia-1792308600-s1",
-      "event-cricket-south-africa-vs-australia-1792308600-s2",
-      "event-cricket-south-africa-vs-australia-1792308600-s3",
-      "event-cricket-south-africa-vs-australia-1792308600-s4",
-      "event-cricket-south-africa-vs-australia-1792308600-s5",
-      "event-cricket-south-africa-vs-australia-1792308600-s6"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "South Africa vs Australia",
-    "sort_order": 0
-  },
-  {
     "id": "event-cricket-wcl-vs-wcl-1792337400",
     "sport": "Cricket",
     "league": "WORLD CHAMPIONSHIP OF LEGENDS Grand Final",
@@ -267,6 +239,29 @@
     "sort_order": 0
   },
   {
+    "id": "event-darts-darts-vs-darts-1792321200",
+    "sport": "Darts",
+    "league": "Dutch Darts Championship",
+    "home_team": {
+      "name": "Darts",
+      "flag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png"
+    },
+    "away_team": {
+      "name": "Darts",
+      "flag": "https://media.istockphoto.com/id/1183783901/vector/darts-game-emblem.jpg?s=612x612&w=0&k=20&c=JX59kkZMYRO_DW0YsiDAnaZeLVAIWajzA4l6jwhxeDo="
+    },
+    "start_time": "2026-10-18T11:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-darts-darts-vs-darts-1792321200-s1"
+    ],
+    "banner": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Darts vs Darts",
+    "sort_order": 0
+  },
+  {
     "id": "event-wwe-wwe-nxt-vs-wwe-nxt-1792540800",
     "sport": "WWE",
     "league": "NXT",
@@ -340,27 +335,28 @@
     "sort_order": 0
   },
   {
-    "id": "event-boxing-miguel-trindade-vs-deniz-afakir-1792256400",
-    "sport": "Boxing",
-    "league": "GLORY 110",
+    "id": "event-tennis-atp-vs-atp-1792303200",
+    "sport": "Tennis",
+    "league": "Shanghai OPEN",
     "home_team": {
-      "name": "Miguel Trindade",
-      "flag": "https://glory.pinkyellow.network/cache/containers/files/news/glory-28-paris-rico-verhoeven-pre-fight-interview/thumbnail.jpg/d205884f70644c9683208c6493347946.webp"
+      "name": "ATP",
+      "flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
     },
     "away_team": {
-      "name": "Deniz Afakir",
-      "flag": "https://glory.pinkyellow.network/cache/containers/files/news/glory-28-paris-rico-verhoeven-pre-fight-interview/thumbnail.jpg/d205884f70644c9683208c6493347946.webp"
+      "name": "ATP",
+      "flag": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png"
     },
-    "start_time": "2026-10-17T17:00:00+00:00",
-    "status": "finished",
+    "start_time": "2026-10-18T06:00:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-boxing-miguel-trindade-vs-deniz-afakir-1792256400-s1",
-      "event-boxing-miguel-trindade-vs-deniz-afakir-1792256400-s3"
+      "event-tennis-atp-vs-atp-1792303200-s1",
+      "event-tennis-atp-vs-atp-1792303200-s2",
+      "event-tennis-atp-vs-atp-1792303200-s3"
     ],
-    "banner": "https://upload.wikimedia.org/wikipedia/en/3/3a/Glory_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "banner": "https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Miguel Trindade vs Deniz Afakir",
+    "custom_title": "ATP vs ATP",
     "sort_order": 0
   },
   {
@@ -485,34 +481,6 @@
     "sort_order": 0
   },
   {
-    "id": "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800",
-    "sport": "Mixed Martial Arts",
-    "league": "UFC",
-    "home_team": {
-      "name": "Joaquin Buckley",
-      "flag": "https://img.sofascore.com/api/v1/team/461599/image"
-    },
-    "away_team": {
-      "name": "Mike Malott",
-      "flag": "https://img.sofascore.com/api/v1/team/464691/image"
-    },
-    "start_time": "2026-10-17T21:00:00+00:00",
-    "status": "finished",
-    "channels": [
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s2",
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s3",
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s4",
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s5",
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s9",
-      "event-mixed-martial-arts-joaquin-buckley-vs-mike-malott-1792270800-s10"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-    "is_featured": true,
-    "hero_type": 1,
-    "custom_title": "Joaquin Buckley vs Mike Malott",
-    "sort_order": 0
-  },
-  {
     "id": "event-cricket-pakistan-vs-sri-lanka-1792310400",
     "sport": "Cricket",
     "league": "ODI Tri-series in Pakistan",
@@ -634,144 +602,6 @@
     "sort_order": 0
   },
   {
-    "id": "event-football-osasuna-vs-real-racing-club-1792324800",
-    "sport": "Football",
-    "league": "LaLiga",
-    "home_team": {
-      "name": "Osasuna",
-      "flag": "https://img.sofascore.com/api/v1/team/2820/image"
-    },
-    "away_team": {
-      "name": "Real Racing Club",
-      "flag": "https://img.sofascore.com/api/v1/team/2835/image"
-    },
-    "start_time": "2026-10-18T12:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-osasuna-vs-real-racing-club-1792324800-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Osasuna vs Real Racing Club",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-ad-ceuta-vs-real-oviedo-1792324800",
-    "sport": "Football",
-    "league": "LaLiga 2",
-    "home_team": {
-      "name": "AD Ceuta",
-      "flag": "https://img.sofascore.com/api/v1/team/2869/image"
-    },
-    "away_team": {
-      "name": "Real Oviedo",
-      "flag": "https://img.sofascore.com/api/v1/team/2851/image"
-    },
-    "start_time": "2026-10-18T12:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-ad-ceuta-vs-real-oviedo-1792324800-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "AD Ceuta vs Real Oviedo",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-fiorentina-vs-como-1792328400",
-    "sport": "Football",
-    "league": "Serie A",
-    "home_team": {
-      "name": "Fiorentina",
-      "flag": "https://img.sofascore.com/api/v1/team/2693/image"
-    },
-    "away_team": {
-      "name": "Como",
-      "flag": "https://img.sofascore.com/api/v1/team/2704/image"
-    },
-    "start_time": "2026-10-18T13:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-fiorentina-vs-como-1792328400-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Fiorentina vs Como",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-udinese-vs-lecce-1792319400",
-    "sport": "Football",
-    "league": "Serie A",
-    "home_team": {
-      "name": "Udinese",
-      "flag": "https://img.sofascore.com/api/v1/team/2695/image"
-    },
-    "away_team": {
-      "name": "Lecce",
-      "flag": "https://img.sofascore.com/api/v1/team/2689/image"
-    },
-    "start_time": "2026-10-18T10:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-udinese-vs-lecce-1792319400-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Udinese vs Lecce",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-angers-vs-olympique-de-marseille-1792328400",
-    "sport": "Football",
-    "league": "Ligue 1",
-    "home_team": {
-      "name": "Angers",
-      "flag": "https://img.sofascore.com/api/v1/team/1684/image"
-    },
-    "away_team": {
-      "name": "Olympique de Marseille",
-      "flag": "https://img.sofascore.com/api/v1/team/1641/image"
-    },
-    "start_time": "2026-10-18T13:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-angers-vs-olympique-de-marseille-1792328400-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Angers vs Olympique de Marseille",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-sg-dynamo-dresden-vs-1-fc-magdeburg-1792323000",
-    "sport": "Football",
-    "league": "2. Bundesliga",
-    "home_team": {
-      "name": "SG Dynamo Dresden",
-      "flag": "https://img.sofascore.com/api/v1/team/2595/image"
-    },
-    "away_team": {
-      "name": "1. FC Magdeburg",
-      "flag": "https://img.sofascore.com/api/v1/team/2591/image"
-    },
-    "start_time": "2026-10-18T11:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-sg-dynamo-dresden-vs-1-fc-magdeburg-1792323000-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "SG Dynamo Dresden vs 1. FC Magdeburg",
-    "sort_order": 0
-  },
-  {
     "id": "event-football-karlsruher-sc-vs-darmstadt-98-1792323000",
     "sport": "Football",
     "league": "2. Bundesliga",
@@ -792,29 +622,6 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Karlsruher SC vs Darmstadt 98",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-bayer-04-leverkusen-vs-sc-freiburg-1792330200",
-    "sport": "Football",
-    "league": "Bundesliga",
-    "home_team": {
-      "name": "Bayer 04 Leverkusen",
-      "flag": "https://img.sofascore.com/api/v1/team/2681/image"
-    },
-    "away_team": {
-      "name": "SC Freiburg",
-      "flag": "https://img.sofascore.com/api/v1/team/2538/image"
-    },
-    "start_time": "2026-10-18T13:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-bayer-04-leverkusen-vs-sc-freiburg-1792330200-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Bayer 04 Leverkusen vs SC Freiburg",
     "sort_order": 0
   },
   {
@@ -841,29 +648,6 @@
     "sort_order": 0
   },
   {
-    "id": "event-football-celta-vigo-vs-deportivo-alavés-1792332900",
-    "sport": "Football",
-    "league": "LaLiga",
-    "home_team": {
-      "name": "Celta Vigo",
-      "flag": "https://img.sofascore.com/api/v1/team/2821/image"
-    },
-    "away_team": {
-      "name": "Deportivo Alavés",
-      "flag": "https://img.sofascore.com/api/v1/team/2885/image"
-    },
-    "start_time": "2026-10-18T14:15:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-celta-vigo-vs-deportivo-alavés-1792332900-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Celta Vigo vs Deportivo Alavés",
-    "sort_order": 0
-  },
-  {
     "id": "event-football-real-madrid-vs-sevilla-1792350000",
     "sport": "Football",
     "league": "LaLiga",
@@ -887,29 +671,6 @@
     "sort_order": 0
   },
   {
-    "id": "event-football-málaga-cf-vs-real-sociedad-1792341000",
-    "sport": "Football",
-    "league": "LaLiga",
-    "home_team": {
-      "name": "Málaga CF",
-      "flag": "https://img.sofascore.com/api/v1/team/2830/image"
-    },
-    "away_team": {
-      "name": "Real Sociedad",
-      "flag": "https://img.sofascore.com/api/v1/team/2824/image"
-    },
-    "start_time": "2026-10-18T16:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-málaga-cf-vs-real-sociedad-1792341000-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Málaga CF vs Real Sociedad",
-    "sort_order": 0
-  },
-  {
     "id": "event-football-nottingham-forest-vs-arsenal-1792337400",
     "sport": "Football",
     "league": "Premier League",
@@ -930,29 +691,6 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Nottingham Forest vs Arsenal",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-borussia-mgladbach-vs-tsg-hoffenheim-1792337400",
-    "sport": "Football",
-    "league": "Bundesliga",
-    "home_team": {
-      "name": "Borussia M'gladbach",
-      "flag": "https://img.sofascore.com/api/v1/team/2527/image"
-    },
-    "away_team": {
-      "name": "TSG Hoffenheim",
-      "flag": "https://img.sofascore.com/api/v1/team/2569/image"
-    },
-    "start_time": "2026-10-18T15:30:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-football-borussia-mgladbach-vs-tsg-hoffenheim-1792337400-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Borussia M'gladbach vs TSG Hoffenheim",
     "sort_order": 0
   },
   {
@@ -1244,7 +982,7 @@
       "flag": "https://img.sofascore.com/api/v1/team/494723/image"
     },
     "start_time": "2026-10-18T02:50:00+00:00",
-    "status": "upcoming",
+    "status": "live",
     "channels": [
       "event-rugby-new-zealand-vs-fiji-1792291800-s1",
       "event-rugby-new-zealand-vs-fiji-1792291800-s2"
@@ -1268,7 +1006,7 @@
       "flag": "https://img.sofascore.com/api/v1/team/52805/image"
     },
     "start_time": "2026-10-18T05:05:00+00:00",
-    "status": "upcoming",
+    "status": "live",
     "channels": [
       "event-rugby-fiji-vs-cook-islands-1792299900-s1",
       "event-rugby-fiji-vs-cook-islands-1792299900-s2"
@@ -1277,221 +1015,6 @@
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Fiji vs Cook Islands",
-    "sort_order": 0
-  },
-  {
-    "id": "event-cricket-australia-women-vs-bangladesh-women-1792311300",
-    "sport": "Cricket",
-    "league": "Twenty20 International Women",
-    "home_team": {
-      "name": "Australia Women",
-      "flag": "https://img.sofascore.com/api/v1/team/213117/image"
-    },
-    "away_team": {
-      "name": "Bangladesh Women",
-      "flag": "https://img.sofascore.com/api/v1/team/187809/image"
-    },
-    "start_time": "2026-10-18T08:15:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-cricket-australia-women-vs-bangladesh-women-1792311300-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Australia Women vs Bangladesh Women",
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-atlético-mineiro-vs-coritiba-1792272600",
-    "sport": "Football",
-    "league": "Campeonato Brasileiro Série A",
-    "home_team": {
-      "name": "Atlético Mineiro",
-      "flag": "https://img.sofascore.com/api/v1/team/1977/image"
-    },
-    "away_team": {
-      "name": "Coritiba",
-      "flag": "https://img.sofascore.com/api/v1/team/1982/image"
-    },
-    "start_time": "2026-10-17T21:30:00+00:00",
-    "status": "finished",
-    "channels": [
-      "event-football-atlético-mineiro-vs-coritiba-1792272600-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Atlético Mineiro vs Coritiba",
-    "sort_order": 0
-  },
-  {
-    "id": "event-mixed-martial-arts-daniel-dubois-vs-fabio-wardley-1792254780",
-    "sport": "Mixed Martial Arts",
-    "league": "Queensbury Promotions",
-    "home_team": {
-      "name": "Daniel Dubois",
-      "flag": "https://img.sofascore.com/api/v1/team/928177/image"
-    },
-    "away_team": {
-      "name": "Fabio Wardley",
-      "flag": "https://img.sofascore.com/api/v1/team/931824/image"
-    },
-    "start_time": "2026-10-17T16:33:00+00:00",
-    "status": "finished",
-    "channels": [
-      "event-mixed-martial-arts-daniel-dubois-vs-fabio-wardley-1792254780-s2",
-      "event-mixed-martial-arts-daniel-dubois-vs-fabio-wardley-1792254780-s3"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/28012/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Daniel Dubois vs Fabio Wardley",
-    "sort_order": 0
-  },
-  {
-    "id": "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792281600",
-    "sport": "Baseball",
-    "league": "MLB",
-    "home_team": {
-      "name": "Cleveland Guardians",
-      "flag": "https://img.sofascore.com/api/v1/team/3650/image"
-    },
-    "away_team": {
-      "name": "Tampa Bay Rays",
-      "flag": "https://img.sofascore.com/api/v1/team/3653/image"
-    },
-    "start_time": "2026-10-18T00:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792281600-s1",
-      "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792281600-s2",
-      "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792281600-s3"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Cleveland Guardians vs Tampa Bay Rays",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-los-angeles-kings-vs-boston-bruins-1792285200",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Los Angeles Kings",
-      "flag": "https://img.sofascore.com/api/v1/team/3688/image"
-    },
-    "away_team": {
-      "name": "Boston Bruins",
-      "flag": "https://img.sofascore.com/api/v1/team/3677/image"
-    },
-    "start_time": "2026-10-18T01:00:00+00:00",
-    "status": "upcoming",
-    "channels": [
-      "event-hockey-los-angeles-kings-vs-boston-bruins-1792285200-s1",
-      "event-hockey-los-angeles-kings-vs-boston-bruins-1792285200-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Los Angeles Kings vs Boston Bruins",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-detroit-red-wings-vs-san-jose-sharks-1792278000",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Detroit Red Wings",
-      "flag": "https://img.sofascore.com/api/v1/team/3685/image"
-    },
-    "away_team": {
-      "name": "San Jose Sharks",
-      "flag": "https://img.sofascore.com/api/v1/team/3696/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-detroit-red-wings-vs-san-jose-sharks-1792278000-s1",
-      "event-hockey-detroit-red-wings-vs-san-jose-sharks-1792278000-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Detroit Red Wings vs San Jose Sharks",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-montréal-canadiens-vs-buffalo-sabres-1792278000",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Montréal Canadiens",
-      "flag": "https://img.sofascore.com/api/v1/team/3690/image"
-    },
-    "away_team": {
-      "name": "Buffalo Sabres",
-      "flag": "https://img.sofascore.com/api/v1/team/3678/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-montréal-canadiens-vs-buffalo-sabres-1792278000-s1",
-      "event-hockey-montréal-canadiens-vs-buffalo-sabres-1792278000-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Montréal Canadiens vs Buffalo Sabres",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-tampa-bay-lightning-vs-vancouver-canucks-1792267200",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Tampa Bay Lightning",
-      "flag": "https://img.sofascore.com/api/v1/team/3694/image"
-    },
-    "away_team": {
-      "name": "Vancouver Canucks",
-      "flag": "https://img.sofascore.com/api/v1/team/3692/image"
-    },
-    "start_time": "2026-10-17T20:00:00+00:00",
-    "status": "finished",
-    "channels": [
-      "event-hockey-tampa-bay-lightning-vs-vancouver-canucks-1792267200-s2",
-      "event-hockey-tampa-bay-lightning-vs-vancouver-canucks-1792267200-s3"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Tampa Bay Lightning vs Vancouver Canucks",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-philadelphia-flyers-vs-ottawa-senators-1792278000",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Philadelphia Flyers",
-      "flag": "https://img.sofascore.com/api/v1/team/3699/image"
-    },
-    "away_team": {
-      "name": "Ottawa Senators",
-      "flag": "https://img.sofascore.com/api/v1/team/3700/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-philadelphia-flyers-vs-ottawa-senators-1792278000-s1",
-      "event-hockey-philadelphia-flyers-vs-ottawa-senators-1792278000-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Philadelphia Flyers vs Ottawa Senators",
     "sort_order": 0
   },
   {
@@ -1507,86 +1030,16 @@
       "flag": "https://img.sofascore.com/api/v1/team/3686/image"
     },
     "start_time": "2026-10-18T02:00:00+00:00",
-    "status": "upcoming",
+    "status": "finished",
     "channels": [
       "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s1",
-      "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s2"
+      "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s2",
+      "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s3"
     ],
     "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
     "is_featured": false,
     "hero_type": 1,
     "custom_title": "Utah Mammoth vs Edmonton Oilers",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-winnipeg-jets-vs-carolina-hurricanes-1792265400",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Winnipeg Jets",
-      "flag": "https://img.sofascore.com/api/v1/team/3676/image"
-    },
-    "away_team": {
-      "name": "Carolina Hurricanes",
-      "flag": "https://img.sofascore.com/api/v1/team/3680/image"
-    },
-    "start_time": "2026-10-17T19:30:00+00:00",
-    "status": "finished",
-    "channels": [
-      "event-hockey-winnipeg-jets-vs-carolina-hurricanes-1792265400-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Winnipeg Jets vs Carolina Hurricanes",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-toronto-maple-leafs-vs-new-york-islanders-1792278000",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Toronto Maple Leafs",
-      "flag": "https://img.sofascore.com/api/v1/team/3693/image"
-    },
-    "away_team": {
-      "name": "New York Islanders",
-      "flag": "https://img.sofascore.com/api/v1/team/3703/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-toronto-maple-leafs-vs-new-york-islanders-1792278000-s1",
-      "event-hockey-toronto-maple-leafs-vs-new-york-islanders-1792278000-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Toronto Maple Leafs vs New York Islanders",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-florida-panthers-vs-seattle-kraken-1792274400",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
-      "name": "Florida Panthers",
-      "flag": "https://img.sofascore.com/api/v1/team/3687/image"
-    },
-    "away_team": {
-      "name": "Seattle Kraken",
-      "flag": "https://img.sofascore.com/api/v1/team/381707/image"
-    },
-    "start_time": "2026-10-17T22:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-florida-panthers-vs-seattle-kraken-1792274400-s1",
-      "event-hockey-florida-panthers-vs-seattle-kraken-1792274400-s2"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Florida Panthers vs Seattle Kraken",
     "sort_order": 0
   },
   {
@@ -1602,10 +1055,11 @@
       "flag": "https://img.sofascore.com/api/v1/team/3697/image"
     },
     "start_time": "2026-10-18T02:00:00+00:00",
-    "status": "upcoming",
+    "status": "finished",
     "channels": [
       "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s1",
-      "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s2"
+      "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s2",
+      "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s3"
     ],
     "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
     "is_featured": false,
@@ -1614,145 +1068,1089 @@
     "sort_order": 0
   },
   {
-    "id": "event-hockey-nashville-predators-vs-st-louis-blues-1792281600",
+    "id": "event-cricket-south-africa-vs-australia-1792310400",
+    "sport": "Cricket",
+    "league": "ICC World Test Championship",
+    "home_team": {
+      "name": "South Africa",
+      "flag": "https://img.sofascore.com/api/v1/team/187747/image"
+    },
+    "away_team": {
+      "name": "Australia",
+      "flag": "https://img.sofascore.com/api/v1/team/187746/image"
+    },
+    "start_time": "2026-10-18T08:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-south-africa-vs-australia-1792310400-s1",
+      "event-cricket-south-africa-vs-australia-1792310400-s2",
+      "event-cricket-south-africa-vs-australia-1792310400-s3",
+      "event-cricket-south-africa-vs-australia-1792310400-s4",
+      "event-cricket-south-africa-vs-australia-1792310400-s5",
+      "event-cricket-south-africa-vs-australia-1792310400-s6"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "South Africa vs Australia",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-australia-women-vs-new-zealand-women-1792311300",
+    "sport": "Cricket",
+    "league": "Twenty20 International Women",
+    "home_team": {
+      "name": "Australia Women",
+      "flag": "https://img.sofascore.com/api/v1/team/213117/image"
+    },
+    "away_team": {
+      "name": "New Zealand Women",
+      "flag": "https://img.sofascore.com/api/v1/team/213115/image"
+    },
+    "start_time": "2026-10-18T08:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-australia-women-vs-new-zealand-women-1792311300-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Australia Women vs New Zealand Women",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-afghanistan-vs-zimbabwe-1792409400",
+    "sport": "Cricket",
+    "league": "ODI Tri-Series in United Arab Emirates",
+    "home_team": {
+      "name": "Afghanistan",
+      "flag": "https://img.sofascore.com/api/v1/team/187575/image"
+    },
+    "away_team": {
+      "name": "Zimbabwe",
+      "flag": "https://img.sofascore.com/api/v1/team/187745/image"
+    },
+    "start_time": "2026-10-19T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-afghanistan-vs-zimbabwe-1792409400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Afghanistan vs Zimbabwe",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-oman-vs-nepal-1792387800",
+    "sport": "Cricket",
+    "league": "ICC CWC League 2",
+    "home_team": {
+      "name": "Oman",
+      "flag": "https://img.sofascore.com/api/v1/team/199279/image"
+    },
+    "away_team": {
+      "name": "Nepal",
+      "flag": "https://img.sofascore.com/api/v1/team/187772/image"
+    },
+    "start_time": "2026-10-19T05:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-oman-vs-nepal-1792387800-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Oman vs Nepal",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-india-women-vs-zimbabwe-women-1792503000",
+    "sport": "Cricket",
+    "league": "Twenty20 International Women",
+    "home_team": {
+      "name": "India Women",
+      "flag": "https://img.sofascore.com/api/v1/team/213119/image"
+    },
+    "away_team": {
+      "name": "Zimbabwe Women",
+      "flag": "https://img.sofascore.com/api/v1/team/417062/image"
+    },
+    "start_time": "2026-10-20T13:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-india-women-vs-zimbabwe-women-1792503000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "India Women vs Zimbabwe Women",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-pakistan-vs-england-1792483200",
+    "sport": "Cricket",
+    "league": "ODI Tri-series in Pakistan",
+    "home_team": {
+      "name": "Pakistan",
+      "flag": "https://img.sofascore.com/api/v1/team/187754/image"
+    },
+    "away_team": {
+      "name": "England",
+      "flag": "https://img.sofascore.com/api/v1/team/187757/image"
+    },
+    "start_time": "2026-10-20T08:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-pakistan-vs-england-1792483200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Pakistan vs England",
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-afghanistan-vs-bangladesh-1792582200",
+    "sport": "Cricket",
+    "league": "ODI Tri-Series in United Arab Emirates",
+    "home_team": {
+      "name": "Afghanistan",
+      "flag": "https://img.sofascore.com/api/v1/team/187575/image"
+    },
+    "away_team": {
+      "name": "Bangladesh",
+      "flag": "https://img.sofascore.com/api/v1/team/187744/image"
+    },
+    "start_time": "2026-10-21T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-cricket-afghanistan-vs-bangladesh-1792582200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Afghanistan vs Bangladesh",
+    "sort_order": 0
+  },
+  {
+    "id": "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792357200",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Cleveland Guardians",
+      "flag": "https://img.sofascore.com/api/v1/team/3650/image"
+    },
+    "away_team": {
+      "name": "Tampa Bay Rays",
+      "flag": "https://img.sofascore.com/api/v1/team/3653/image"
+    },
+    "start_time": "2026-10-18T21:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-baseball-cleveland-guardians-vs-tampa-bay-rays-1792357200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Cleveland Guardians vs Tampa Bay Rays",
+    "sort_order": 0
+  },
+  {
+    "id": "event-baseball-milwaukee-brewers-vs-los-angeles-dodgers-1792368000",
+    "sport": "Baseball",
+    "league": "MLB",
+    "home_team": {
+      "name": "Milwaukee Brewers",
+      "flag": "https://img.sofascore.com/api/v1/team/3630/image"
+    },
+    "away_team": {
+      "name": "Los Angeles Dodgers",
+      "flag": "https://img.sofascore.com/api/v1/team/3638/image"
+    },
+    "start_time": "2026-10-19T00:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-baseball-milwaukee-brewers-vs-los-angeles-dodgers-1792368000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Milwaukee Brewers vs Los Angeles Dodgers",
+    "sort_order": 0
+  },
+  {
+    "id": "event-hockey-calgary-flames-vs-carolina-hurricanes-1792368000",
     "sport": "Hockey",
     "league": "NHL",
     "home_team": {
-      "name": "Nashville Predators",
-      "flag": "https://img.sofascore.com/api/v1/team/3705/image"
+      "name": "Calgary Flames",
+      "flag": "https://img.sofascore.com/api/v1/team/3679/image"
     },
     "away_team": {
-      "name": "St. Louis Blues",
-      "flag": "https://img.sofascore.com/api/v1/team/3695/image"
+      "name": "Carolina Hurricanes",
+      "flag": "https://img.sofascore.com/api/v1/team/3680/image"
     },
-    "start_time": "2026-10-18T00:00:00+00:00",
-    "status": "live",
+    "start_time": "2026-10-19T00:00:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-hockey-nashville-predators-vs-st-louis-blues-1792281600-s1",
-      "event-hockey-nashville-predators-vs-st-louis-blues-1792281600-s2"
+      "event-hockey-calgary-flames-vs-carolina-hurricanes-1792368000-s1"
     ],
     "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Nashville Predators vs St. Louis Blues",
+    "custom_title": "Calgary Flames vs Carolina Hurricanes",
     "sort_order": 0
   },
   {
-    "id": "event-hockey-chicago-blackhawks-vs-dallas-stars-1792278000",
+    "id": "event-hockey-minnesota-wild-vs-columbus-blue-jackets-1792360800",
     "sport": "Hockey",
     "league": "NHL",
     "home_team": {
-      "name": "Chicago Blackhawks",
-      "flag": "https://img.sofascore.com/api/v1/team/3681/image"
+      "name": "Minnesota Wild",
+      "flag": "https://img.sofascore.com/api/v1/team/3689/image"
     },
     "away_team": {
-      "name": "Dallas Stars",
-      "flag": "https://img.sofascore.com/api/v1/team/3684/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
-    "channels": [
-      "event-hockey-chicago-blackhawks-vs-dallas-stars-1792278000-s1"
-    ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "is_featured": false,
-    "hero_type": 1,
-    "custom_title": "Chicago Blackhawks vs Dallas Stars",
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-columbus-blue-jackets-vs-new-york-rangers-1792278000",
-    "sport": "Hockey",
-    "league": "NHL",
-    "home_team": {
       "name": "Columbus Blue Jackets",
       "flag": "https://img.sofascore.com/api/v1/team/3683/image"
     },
-    "away_team": {
-      "name": "New York Rangers",
-      "flag": "https://img.sofascore.com/api/v1/team/3701/image"
-    },
-    "start_time": "2026-10-17T23:00:00+00:00",
-    "status": "live",
+    "start_time": "2026-10-18T22:00:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-hockey-columbus-blue-jackets-vs-new-york-rangers-1792278000-s1",
-      "event-hockey-columbus-blue-jackets-vs-new-york-rangers-1792278000-s2"
+      "event-hockey-minnesota-wild-vs-columbus-blue-jackets-1792360800-s1"
     ],
     "banner": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Columbus Blue Jackets vs New York Rangers",
+    "custom_title": "Minnesota Wild vs Columbus Blue Jackets",
     "sort_order": 0
   },
   {
-    "id": "event-football-cavalry-fc-vs-pacific-fc-1792267200",
+    "id": "event-football-ac-milan-vs-atalanta-1792339200",
     "sport": "Football",
-    "league": "Canadian Premier League",
+    "league": "Serie A",
     "home_team": {
-      "name": "Cavalry FC",
-      "flag": "https://img.sofascore.com/api/v1/team/309889/image"
+      "name": "AC Milan",
+      "flag": "https://img.sofascore.com/api/v1/team/2692/image"
     },
     "away_team": {
-      "name": "Pacific FC",
-      "flag": "https://img.sofascore.com/api/v1/team/309888/image"
+      "name": "Atalanta",
+      "flag": "https://img.sofascore.com/api/v1/team/2686/image"
     },
-    "start_time": "2026-10-17T20:00:00+00:00",
-    "status": "finished",
+    "start_time": "2026-10-18T16:00:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-football-cavalry-fc-vs-pacific-fc-1792267200-s1",
-      "event-football-cavalry-fc-vs-pacific-fc-1792267200-s2"
+      "event-football-ac-milan-vs-atalanta-1792339200-s1"
     ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Cavalry FC vs Pacific FC",
+    "custom_title": "AC Milan vs Atalanta",
     "sort_order": 0
   },
   {
-    "id": "event-football-atlanta-united-vs-inter-miami-cf-1792279800",
+    "id": "event-football-juventus-vs-lazio-1792349100",
     "sport": "Football",
-    "league": "MLS",
+    "league": "Serie A",
     "home_team": {
-      "name": "Atlanta United",
-      "flag": "https://img.sofascore.com/api/v1/team/243211/image"
+      "name": "Juventus",
+      "flag": "https://img.sofascore.com/api/v1/team/2687/image"
     },
     "away_team": {
-      "name": "Inter Miami CF",
-      "flag": "https://img.sofascore.com/api/v1/team/337602/image"
+      "name": "Lazio",
+      "flag": "https://img.sofascore.com/api/v1/team/2699/image"
     },
-    "start_time": "2026-10-17T23:30:00+00:00",
-    "status": "live",
+    "start_time": "2026-10-18T18:45:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-football-atlanta-united-vs-inter-miami-cf-1792279800-s1",
-      "event-football-atlanta-united-vs-inter-miami-cf-1792279800-s3"
+      "event-football-juventus-vs-lazio-1792349100-s1"
     ],
-    "banner": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "Atlanta United vs Inter Miami CF",
+    "custom_title": "Juventus vs Lazio",
     "sort_order": 0
   },
   {
-    "id": "event-football-são-paulo-vs-vasco-da-gama-1792281600",
+    "id": "event-football-fiorentina-vs-como-1792328400",
+    "sport": "Football",
+    "league": "Serie A",
+    "home_team": {
+      "name": "Fiorentina",
+      "flag": "https://img.sofascore.com/api/v1/team/2693/image"
+    },
+    "away_team": {
+      "name": "Como",
+      "flag": "https://img.sofascore.com/api/v1/team/2704/image"
+    },
+    "start_time": "2026-10-18T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-fiorentina-vs-como-1792328400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Fiorentina vs Como",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-udinese-vs-lecce-1792319400",
+    "sport": "Football",
+    "league": "Serie A",
+    "home_team": {
+      "name": "Udinese",
+      "flag": "https://img.sofascore.com/api/v1/team/2695/image"
+    },
+    "away_team": {
+      "name": "Lecce",
+      "flag": "https://img.sofascore.com/api/v1/team/2689/image"
+    },
+    "start_time": "2026-10-18T10:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-udinese-vs-lecce-1792319400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Udinese vs Lecce",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-real-valladolid-vs-cd-eldense-1792341000",
+    "sport": "Football",
+    "league": "LaLiga 2",
+    "home_team": {
+      "name": "Real Valladolid",
+      "flag": "https://img.sofascore.com/api/v1/team/2831/image"
+    },
+    "away_team": {
+      "name": "CD Eldense",
+      "flag": "https://img.sofascore.com/api/v1/team/47321/image"
+    },
+    "start_time": "2026-10-18T16:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-real-valladolid-vs-cd-eldense-1792341000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Real Valladolid vs CD Eldense",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-osasuna-vs-real-racing-club-1792324800",
+    "sport": "Football",
+    "league": "LaLiga",
+    "home_team": {
+      "name": "Osasuna",
+      "flag": "https://img.sofascore.com/api/v1/team/2820/image"
+    },
+    "away_team": {
+      "name": "Real Racing Club",
+      "flag": "https://img.sofascore.com/api/v1/team/2835/image"
+    },
+    "start_time": "2026-10-18T12:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-osasuna-vs-real-racing-club-1792324800-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Osasuna vs Real Racing Club",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-girona-fc-vs-fc-andorra-1792341000",
+    "sport": "Football",
+    "league": "LaLiga 2",
+    "home_team": {
+      "name": "Girona FC",
+      "flag": "https://img.sofascore.com/api/v1/team/24264/image"
+    },
+    "away_team": {
+      "name": "FC Andorra",
+      "flag": "https://img.sofascore.com/api/v1/team/324871/image"
+    },
+    "start_time": "2026-10-18T16:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-girona-fc-vs-fc-andorra-1792341000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Girona FC vs FC Andorra",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-granada-vs-cádiz-1792332900",
+    "sport": "Football",
+    "league": "LaLiga 2",
+    "home_team": {
+      "name": "Granada",
+      "flag": "https://img.sofascore.com/api/v1/team/33779/image"
+    },
+    "away_team": {
+      "name": "Cádiz",
+      "flag": "https://img.sofascore.com/api/v1/team/4488/image"
+    },
+    "start_time": "2026-10-18T14:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-granada-vs-cádiz-1792332900-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Granada vs Cádiz",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-celta-vigo-vs-deportivo-alavés-1792332900",
+    "sport": "Football",
+    "league": "LaLiga",
+    "home_team": {
+      "name": "Celta Vigo",
+      "flag": "https://img.sofascore.com/api/v1/team/2821/image"
+    },
+    "away_team": {
+      "name": "Deportivo Alavés",
+      "flag": "https://img.sofascore.com/api/v1/team/2885/image"
+    },
+    "start_time": "2026-10-18T14:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-celta-vigo-vs-deportivo-alavés-1792332900-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Celta Vigo vs Deportivo Alavés",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-málaga-cf-vs-real-sociedad-1792341000",
+    "sport": "Football",
+    "league": "LaLiga",
+    "home_team": {
+      "name": "Málaga CF",
+      "flag": "https://img.sofascore.com/api/v1/team/2830/image"
+    },
+    "away_team": {
+      "name": "Real Sociedad",
+      "flag": "https://img.sofascore.com/api/v1/team/2824/image"
+    },
+    "start_time": "2026-10-18T16:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-málaga-cf-vs-real-sociedad-1792341000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Málaga CF vs Real Sociedad",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-burgos-club-de-fútbol-vs-ce-sabadell-1792350000",
+    "sport": "Football",
+    "league": "LaLiga 2",
+    "home_team": {
+      "name": "Burgos Club de Fútbol",
+      "flag": "https://img.sofascore.com/api/v1/team/2854/image"
+    },
+    "away_team": {
+      "name": "CE Sabadell",
+      "flag": "https://img.sofascore.com/api/v1/team/24335/image"
+    },
+    "start_time": "2026-10-18T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-burgos-club-de-fútbol-vs-ce-sabadell-1792350000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Burgos Club de Fútbol vs CE Sabadell",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-ad-ceuta-vs-real-oviedo-1792324800",
+    "sport": "Football",
+    "league": "LaLiga 2",
+    "home_team": {
+      "name": "AD Ceuta",
+      "flag": "https://img.sofascore.com/api/v1/team/2869/image"
+    },
+    "away_team": {
+      "name": "Real Oviedo",
+      "flag": "https://img.sofascore.com/api/v1/team/2851/image"
+    },
+    "start_time": "2026-10-18T12:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-ad-ceuta-vs-real-oviedo-1792324800-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "AD Ceuta vs Real Oviedo",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-bayer-04-leverkusen-vs-sc-freiburg-1792330200",
+    "sport": "Football",
+    "league": "Bundesliga",
+    "home_team": {
+      "name": "Bayer 04 Leverkusen",
+      "flag": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
+    "away_team": {
+      "name": "SC Freiburg",
+      "flag": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    "start_time": "2026-10-18T13:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-bayer-04-leverkusen-vs-sc-freiburg-1792330200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Bayer 04 Leverkusen vs SC Freiburg",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-sg-dynamo-dresden-vs-1-fc-magdeburg-1792323000",
+    "sport": "Football",
+    "league": "2. Bundesliga",
+    "home_team": {
+      "name": "SG Dynamo Dresden",
+      "flag": "https://img.sofascore.com/api/v1/team/2595/image"
+    },
+    "away_team": {
+      "name": "1. FC Magdeburg",
+      "flag": "https://img.sofascore.com/api/v1/team/2591/image"
+    },
+    "start_time": "2026-10-18T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-sg-dynamo-dresden-vs-1-fc-magdeburg-1792323000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "SG Dynamo Dresden vs 1. FC Magdeburg",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-borussia-mgladbach-vs-tsg-hoffenheim-1792337400",
+    "sport": "Football",
+    "league": "Bundesliga",
+    "home_team": {
+      "name": "Borussia M'gladbach",
+      "flag": "https://img.sofascore.com/api/v1/team/2527/image"
+    },
+    "away_team": {
+      "name": "TSG Hoffenheim",
+      "flag": "https://img.sofascore.com/api/v1/team/2569/image"
+    },
+    "start_time": "2026-10-18T15:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-borussia-mgladbach-vs-tsg-hoffenheim-1792337400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Borussia M'gladbach vs TSG Hoffenheim",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-al-nassr-vs-neom-sc-1792342800",
+    "sport": "Football",
+    "league": "Saudi Pro League",
+    "home_team": {
+      "name": "Al-Nassr",
+      "flag": "https://img.sofascore.com/api/v1/team/23400/image"
+    },
+    "away_team": {
+      "name": "Neom SC",
+      "flag": "https://img.sofascore.com/api/v1/team/530631/image"
+    },
+    "start_time": "2026-10-18T17:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-al-nassr-vs-neom-sc-1792342800-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Al-Nassr vs Neom SC",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-al-fateh-vs-al-khaleej-1792346400",
+    "sport": "Football",
+    "league": "Saudi Pro League",
+    "home_team": {
+      "name": "Al-Fateh",
+      "flag": "https://img.sofascore.com/api/v1/team/56023/image"
+    },
+    "away_team": {
+      "name": "Al-Khaleej",
+      "flag": "https://img.sofascore.com/api/v1/team/167228/image"
+    },
+    "start_time": "2026-10-18T18:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-al-fateh-vs-al-khaleej-1792346400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Al-Fateh vs Al-Khaleej",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-paris-fc-vs-stade-rennais-1792336500",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "Paris FC",
+      "flag": "https://img.sofascore.com/api/v1/team/6070/image"
+    },
+    "away_team": {
+      "name": "Stade Rennais",
+      "flag": "https://img.sofascore.com/api/v1/team/1658/image"
+    },
+    "start_time": "2026-10-18T15:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-paris-fc-vs-stade-rennais-1792336500-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Paris FC vs Stade Rennais",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-angers-vs-olympique-de-marseille-1792328400",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "Angers",
+      "flag": "https://img.sofascore.com/api/v1/team/1684/image"
+    },
+    "away_team": {
+      "name": "Olympique de Marseille",
+      "flag": "https://img.sofascore.com/api/v1/team/1641/image"
+    },
+    "start_time": "2026-10-18T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-angers-vs-olympique-de-marseille-1792328400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Angers vs Olympique de Marseille",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-lorient-vs-as-monaco-1792336500",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "Lorient",
+      "flag": "https://img.sofascore.com/api/v1/team/1656/image"
+    },
+    "away_team": {
+      "name": "AS Monaco",
+      "flag": "https://img.sofascore.com/api/v1/team/1653/image"
+    },
+    "start_time": "2026-10-18T15:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-lorient-vs-as-monaco-1792336500-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Lorient vs AS Monaco",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-le-havre-vs-auxerre-1792336500",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "Le Havre",
+      "flag": "https://img.sofascore.com/api/v1/team/1662/image"
+    },
+    "away_team": {
+      "name": "Auxerre",
+      "flag": "https://img.sofascore.com/api/v1/team/1646/image"
+    },
+    "start_time": "2026-10-18T15:15:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-le-havre-vs-auxerre-1792336500-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Le Havre vs Auxerre",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-olympique-lyonnais-vs-nice-1792349100",
+    "sport": "Football",
+    "league": "Ligue 1",
+    "home_team": {
+      "name": "Olympique Lyonnais",
+      "flag": "https://img.sofascore.com/api/v1/team/1649/image"
+    },
+    "away_team": {
+      "name": "Nice",
+      "flag": "https://img.sofascore.com/api/v1/team/1661/image"
+    },
+    "start_time": "2026-10-18T18:45:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-olympique-lyonnais-vs-nice-1792349100-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Olympique Lyonnais vs Nice",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-celtic-vs-heart-of-midlothian-1792332000",
+    "sport": "Football",
+    "league": "Scottish Premiership",
+    "home_team": {
+      "name": "Celtic",
+      "flag": "https://img.sofascore.com/api/v1/team/2352/image"
+    },
+    "away_team": {
+      "name": "Heart of Midlothian",
+      "flag": "https://img.sofascore.com/api/v1/team/2353/image"
+    },
+    "start_time": "2026-10-18T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-celtic-vs-heart-of-midlothian-1792332000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Celtic vs Heart of Midlothian",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-london-city-lionesses-vs-everton-1792328400",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "London City Lionesses",
+      "flag": "https://img.sofascore.com/api/v1/team/326573/image"
+    },
+    "away_team": {
+      "name": "Everton",
+      "flag": "https://img.sofascore.com/api/v1/team/36704/image"
+    },
+    "start_time": "2026-10-18T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-london-city-lionesses-vs-everton-1792328400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "London City Lionesses vs Everton",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-fluminense-vs-santos-1792350000",
     "sport": "Football",
     "league": "Campeonato Brasileiro Série A",
     "home_team": {
-      "name": "São Paulo",
-      "flag": "https://img.sofascore.com/api/v1/team/1981/image"
+      "name": "Fluminense",
+      "flag": "https://img.sofascore.com/api/v1/team/1961/image"
     },
     "away_team": {
-      "name": "Vasco da Gama",
-      "flag": "https://img.sofascore.com/api/v1/team/1974/image"
+      "name": "Santos",
+      "flag": "https://img.sofascore.com/api/v1/team/1968/image"
     },
-    "start_time": "2026-10-18T00:00:00+00:00",
-    "status": "live",
+    "start_time": "2026-10-18T19:00:00+00:00",
+    "status": "upcoming",
     "channels": [
-      "event-football-são-paulo-vs-vasco-da-gama-1792281600-s1"
+      "event-football-fluminense-vs-santos-1792350000-s1"
     ],
     "banner": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
     "is_featured": false,
     "hero_type": 1,
-    "custom_title": "São Paulo vs Vasco da Gama",
+    "custom_title": "Fluminense vs Santos",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-aston-villa-vs-liverpool-fc-1792328400",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "Aston Villa",
+      "flag": "https://img.sofascore.com/api/v1/team/266375/image"
+    },
+    "away_team": {
+      "name": "Liverpool FC",
+      "flag": "https://img.sofascore.com/api/v1/team/66774/image"
+    },
+    "start_time": "2026-10-18T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-aston-villa-vs-liverpool-fc-1792328400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Aston Villa vs Liverpool FC",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-chelsea-fc-vs-tottenham-fc-1792321200",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "Chelsea FC",
+      "flag": "https://img.sofascore.com/api/v1/team/66768/image"
+    },
+    "away_team": {
+      "name": "Tottenham FC",
+      "flag": "https://img.sofascore.com/api/v1/team/273547/image"
+    },
+    "start_time": "2026-10-18T11:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-chelsea-fc-vs-tottenham-fc-1792321200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Chelsea FC vs Tottenham FC",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-northeast-united-fc-vs-kerala-blasters-1792332000",
+    "sport": "Football",
+    "league": "Indian Super League",
+    "home_team": {
+      "name": "NorthEast United FC",
+      "flag": "https://img.sofascore.com/api/v1/team/174602/image"
+    },
+    "away_team": {
+      "name": "Kerala Blasters",
+      "flag": "https://img.sofascore.com/api/v1/team/174598/image"
+    },
+    "start_time": "2026-10-18T14:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-northeast-united-fc-vs-kerala-blasters-1792332000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "NorthEast United FC vs Kerala Blasters",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-crystal-palace-vs-west-ham-1792321200",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "Crystal Palace",
+      "flag": "https://img.sofascore.com/api/v1/team/234204/image"
+    },
+    "away_team": {
+      "name": "West Ham",
+      "flag": "https://img.sofascore.com/api/v1/team/297802/image"
+    },
+    "start_time": "2026-10-18T11:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-crystal-palace-vs-west-ham-1792321200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Crystal Palace vs West Ham",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-bahia-vs-flamengo-1792359000",
+    "sport": "Football",
+    "league": "Campeonato Brasileiro Série A",
+    "home_team": {
+      "name": "Bahia",
+      "flag": "https://img.sofascore.com/api/v1/team/1955/image"
+    },
+    "away_team": {
+      "name": "Flamengo",
+      "flag": "https://img.sofascore.com/api/v1/team/5981/image"
+    },
+    "start_time": "2026-10-18T21:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-bahia-vs-flamengo-1792359000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Bahia vs Flamengo",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-remo-vs-red-bull-bragantino-1792362600",
+    "sport": "Football",
+    "league": "Campeonato Brasileiro Série A",
+    "home_team": {
+      "name": "Remo",
+      "flag": "https://img.sofascore.com/api/v1/team/2012/image"
+    },
+    "away_team": {
+      "name": "Red Bull Bragantino",
+      "flag": "https://img.sofascore.com/api/v1/team/1999/image"
+    },
+    "start_time": "2026-10-18T22:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-remo-vs-red-bull-bragantino-1792362600-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Remo vs Red Bull Bragantino",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-grêmio-vs-cruzeiro-1792350000",
+    "sport": "Football",
+    "league": "Campeonato Brasileiro Série A",
+    "home_team": {
+      "name": "Grêmio",
+      "flag": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
+    "away_team": {
+      "name": "Cruzeiro",
+      "flag": "https://img.sofascore.com/api/v1/team/1954/image"
+    },
+    "start_time": "2026-10-18T19:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-grêmio-vs-cruzeiro-1792350000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Grêmio vs Cruzeiro",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-charlton-athletic-wfc-vs-manchester-united-1792328400",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "Charlton Athletic WFC",
+      "flag": "https://img.sofascore.com/api/v1/team/234203/image"
+    },
+    "away_team": {
+      "name": "Manchester United",
+      "flag": "https://img.sofascore.com/api/v1/team/301455/image"
+    },
+    "start_time": "2026-10-18T13:00:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-charlton-athletic-wfc-vs-manchester-united-1792328400-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Charlton Athletic WFC vs Manchester United",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-manchester-city-vs-brighton-1792330200",
+    "sport": "Football",
+    "league": "Women's Super League",
+    "home_team": {
+      "name": "Manchester City",
+      "flag": "https://img.sofascore.com/api/v1/team/142658/image"
+    },
+    "away_team": {
+      "name": "Brighton",
+      "flag": "https://img.sofascore.com/api/v1/team/266376/image"
+    },
+    "start_time": "2026-10-18T13:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-manchester-city-vs-brighton-1792330200-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Manchester City vs Brighton",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-cruz-azul-vs-fc-juárez-1792293000",
+    "sport": "Football",
+    "league": "Liga MX, Apertura",
+    "home_team": {
+      "name": "Cruz Azul",
+      "flag": "https://img.sofascore.com/api/v1/team/1947/image"
+    },
+    "away_team": {
+      "name": "FC Juárez",
+      "flag": "https://img.sofascore.com/api/v1/team/201624/image"
+    },
+    "start_time": "2026-10-18T03:10:00+00:00",
+    "status": "live",
+    "channels": [
+      "event-football-cruz-azul-vs-fc-juárez-1792293000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Cruz Azul vs FC Juárez",
+    "sort_order": 0
+  },
+  {
+    "id": "event-football-churchill-brothers-sc-vs-east-bengal-fc-1792323000",
+    "sport": "Football",
+    "league": "Indian Super League",
+    "home_team": {
+      "name": "Churchill Brothers SC",
+      "flag": "https://img.sofascore.com/api/v1/team/40078/image"
+    },
+    "away_team": {
+      "name": "East Bengal FC",
+      "flag": "https://img.sofascore.com/api/v1/team/40655/image"
+    },
+    "start_time": "2026-10-18T11:30:00+00:00",
+    "status": "upcoming",
+    "channels": [
+      "event-football-churchill-brothers-sc-vs-east-bengal-fc-1792323000-s1"
+    ],
+    "banner": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+    "is_featured": false,
+    "hero_type": 1,
+    "custom_title": "Churchill Brothers SC vs East Bengal FC",
     "sort_order": 0
   }
 ]
