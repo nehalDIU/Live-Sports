@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: PlayZ TV Live Sports Playlist
-#EXT-X-UPDATED: 2026-10-18T05:08:19.210080+00:00
+#EXT-X-UPDATED: 2026-10-18T09:38:40.108728+00:00
 
 #EXTINF:-1 tvg-id="event-cricket-india-women-vs-zimbabwe-women-1792330200" tvg-name="India Women vs Zimbabwe Women [AQ)] (Twenty20 International Women)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Cricket", India Women vs Zimbabwe Women [AQ)] (Twenty20 International Women)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -306,18 +306,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 
-#EXTINF:-1 tvg-id="event-mixed-martial-arts-bkfc-vs-bkfc-1792281600" tvg-name="BKFC vs BKFC [AQ )]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10" group-title="Mixed Martial Arts", BKFC vs BKFC [AQ )]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-
-#EXTINF:-1 tvg-id="event-mixed-martial-arts-bkfc-vs-bkfc-1792281600" tvg-name="BKFC vs BKFC [AQ )]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10" group-title="Mixed Martial Arts", BKFC vs BKFC [AQ )]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd
-
 #EXTINF:-1 tvg-id="event-football-pakistan-vs-india-1793871000" tvg-name="Pakistan vs India (PlayZ TV) (SAFF Championship)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/2026_SAFF_Championship.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Football", Pakistan vs India (PlayZ TV) (SAFF Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://playztv.pages.dev/sss/index.m3u8
@@ -347,34 +335,38 @@ https://hoast-plm.shop/playztv/links.php?id=setanta2.m3u8
 #EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 
 #EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
-#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)
+#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e37c80506a66e5c7aa2613b5e8254e07:22fb176c5e8295133385d975520b150c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7mtkevhkp8/out/v1/0e763683a5224a2f8203d7f457fe0a96/cenc.mpd
+
+#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1
 
-#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ)] (ODI Tri-series in Pakistan)
+#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka [AQ )] (ODI Tri-series in Pakistan)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka (TAPMAD HD) (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka (TAPMAD HD) (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8
 
 #EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka (PTV SPORTS HD) (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka (PTV SPORTS HD) (ODI Tri-series in Pakistan)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://baila-lentoo.pages.dev/all-sp/809398.m3u8
-
-#EXTINF:-1 tvg-id="event-cricket-pakistan-vs-sri-lanka-1792310400" tvg-name="Pakistan vs Sri Lanka (SD STREAM ) (ODI Tri-series in Pakistan)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", Pakistan vs Sri Lanka (SD STREAM ) (ODI Tri-series in Pakistan)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://193.47.62.41/hls/krrr.m3u8
+https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="event-football-fc-barcelona-vs-real-madrid-1792958400" tvg-name="FC Barcelona vs Real Madrid (PlayZ TV Live) (LaLiga)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", FC Barcelona vs Real Madrid (PlayZ TV Live) (LaLiga)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -407,6 +399,22 @@ Ok
 #EXTINF:-1 tvg-id="event-football-nottingham-forest-vs-arsenal-1792337400" tvg-name="Nottingham Forest vs Arsenal (PlayZ TV Live) (Premier League)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", Nottingham Forest vs Arsenal (PlayZ TV Live) (Premier League)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 Ok
+
+#EXTINF:-1 tvg-id="event-cycling-uci-cycling-vs-uci-cycling-1792301400" tvg-name="UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10" group-title="Cycling", UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="event-cycling-uci-cycling-vs-uci-cycling-1792301400" tvg-name="UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10" group-title="Cycling", UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="event-cycling-uci-cycling-vs-uci-cycling-1792301400" tvg-name="UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10" group-title="Cycling", UCI Cycling vs UCI Cycling [AQ )] (UCI World Championship)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://spovt.ru/bpk-tv/000002479/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="event-american-football-philadelphia-eagles-vs-carolina-panthers-1792342800" tvg-name="Philadelphia Eagles vs Carolina Panthers (PlayZ TV Live) (NFL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", Philadelphia Eagles vs Carolina Panthers (PlayZ TV Live) (NFL)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -456,53 +464,11 @@ Ok
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 Ok
 
-#EXTINF:-1 tvg-id="event-rugby-new-zealand-vs-fiji-1792291800" tvg-name="New Zealand vs Fiji [AQ )] (World Cup, Women)" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark" group-title="Rugby", New Zealand vs Fiji [AQ )] (World Cup, Women)
+#EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="event-rugby-new-zealand-vs-fiji-1792291800" tvg-name="New Zealand vs Fiji (PlayZ TV Live) (World Cup, Women)" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark" group-title="Rugby", New Zealand vs Fiji (PlayZ TV Live) (World Cup, Women)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
-
-#EXTINF:-1 tvg-id="event-rugby-fiji-vs-cook-islands-1792299900" tvg-name="Fiji vs Cook Islands [AQ )] (World Cup)" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/431/image/dark" group-title="Rugby", Fiji vs Cook Islands [AQ )] (World Cup)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="event-rugby-fiji-vs-cook-islands-1792299900" tvg-name="Fiji vs Cook Islands (PlayZ TV Live) (World Cup)" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/431/image/dark" group-title="Rugby", Fiji vs Cook Islands (PlayZ TV Live) (World Cup)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
-
-#EXTINF:-1 tvg-id="event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800" tvg-name="Utah Mammoth vs Edmonton Oilers (S1) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Utah Mammoth vs Edmonton Oilers (S1) (NHL)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://chatgpt.hereisman.net/playlist/58237/load-playlist?
-
-#EXTINF:-1 tvg-id="event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800" tvg-name="Utah Mammoth vs Edmonton Oilers (PlayZ TV Live) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Utah Mammoth vs Edmonton Oilers (PlayZ TV Live) (NHL)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
-
-#EXTINF:-1 tvg-id="event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800" tvg-name="Utah Mammoth vs Edmonton Oilers (HD) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Utah Mammoth vs Edmonton Oilers (HD) (NHL)
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://edgestream7.pro/hls/hefbafbakx28.m3u8?
-
-#EXTINF:-1 tvg-id="event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800" tvg-name="Vegas Golden Knights vs Pittsburgh Penguins (S1) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Vegas Golden Knights vs Pittsburgh Penguins (S1) (NHL)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://chatgpt.hereisman.net/playlist/58235/load-playlist?
-
-#EXTINF:-1 tvg-id="event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800" tvg-name="Vegas Golden Knights vs Pittsburgh Penguins (PlayZ TV Live) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Vegas Golden Knights vs Pittsburgh Penguins (PlayZ TV Live) (NHL)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
-
-#EXTINF:-1 tvg-id="event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800" tvg-name="Vegas Golden Knights vs Pittsburgh Penguins (HD) (NHL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey", Vegas Golden Knights vs Pittsburgh Penguins (HD) (NHL)
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?
+#KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
 
 #EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -511,18 +477,18 @@ https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7578716f99caa689b9a4d2bdce753651:24d34e5d771ed71f519c8f8e971c3bd8
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd
-
-#EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
 
 #EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+
+#EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia [AQ)] (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia [AQ)] (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 #EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia (FOX CRICKET HD) (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia (FOX CRICKET HD) (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -532,9 +498,15 @@ https://baila-lentoo.pages.dev/all-sp/809389.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
 
-#EXTINF:-1 tvg-id="event-cricket-australia-women-vs-new-zealand-women-1792311300" tvg-name="Australia Women vs New Zealand Women (PlayZ TV Live) (Twenty20 International Women)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Cricket", Australia Women vs New Zealand Women (PlayZ TV Live) (Twenty20 International Women)
+#EXTINF:-1 tvg-id="event-cricket-south-africa-vs-australia-1792310400" tvg-name="South Africa vs Australia (SD STREAM ) (ICC World Test Championship)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", South Africa vs Australia (SD STREAM ) (ICC World Test Championship)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
+http://193.47.62.44/hls/BEEEEAAAA.m3u8
+
+#EXTINF:-1 tvg-id="event-cricket-australia-women-vs-new-zealand-women-1792311300" tvg-name="Australia Women vs New Zealand Women (WILLOW SPORTS) (Twenty20 International Women)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Cricket", Australia Women vs New Zealand Women (WILLOW SPORTS) (Twenty20 International Women)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="event-cricket-afghanistan-vs-zimbabwe-1792409400" tvg-name="Afghanistan vs Zimbabwe (PlayZ TV Live) (ODI Tri-Series in United Arab Emirates)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", Afghanistan vs Zimbabwe (PlayZ TV Live) (ODI Tri-Series in United Arab Emirates)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -584,9 +556,11 @@ Ok
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 Ok
 
-#EXTINF:-1 tvg-id="event-football-udinese-vs-lecce-1792319400" tvg-name="Udinese vs Lecce (PlayZ TV Live) (Serie A)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", Udinese vs Lecce (PlayZ TV Live) (Serie A)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-Ok
+#EXTINF:-1 tvg-id="event-football-udinese-vs-lecce-1792319400" tvg-name="Udinese vs Lecce (beIN SPORTS FHD) (Serie A)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", Udinese vs Lecce (beIN SPORTS FHD) (Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 
 #EXTINF:-1 tvg-id="event-football-real-valladolid-vs-cd-eldense-1792341000" tvg-name="Real Valladolid vs CD Eldense (PlayZ TV Live) (LaLiga 2)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", Real Valladolid vs CD Eldense (PlayZ TV Live) (LaLiga 2)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -707,12 +681,6 @@ Ok
 #EXTINF:-1 tvg-id="event-football-manchester-city-vs-brighton-1792330200" tvg-name="Manchester City vs Brighton (PlayZ TV Live) (Women's Super League)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="Football", Manchester City vs Brighton (PlayZ TV Live) (Women's Super League)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 Ok
-
-#EXTINF:-1 tvg-id="event-football-cruz-azul-vs-fc-juárez-1792293000" tvg-name="Cruz Azul vs FC Juárez (PlayZ TV Live) (Liga MX, Apertura)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark" group-title="Football", Cruz Azul vs FC Juárez (PlayZ TV Live) (Liga MX, Apertura)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
 #EXTINF:-1 tvg-id="event-football-churchill-brothers-sc-vs-east-bengal-fc-1792323000" tvg-name="Churchill Brothers SC vs East Bengal FC (PlayZ TV Live) (Indian Super League)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark" group-title="Football", Churchill Brothers SC vs East Bengal FC (PlayZ TV Live) (Indian Super League)
 #KODIPROP:inputstream.adaptive.manifest_type=hls

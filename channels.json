@@ -973,7 +973,7 @@
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
@@ -993,7 +993,7 @@
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
@@ -1013,7 +1013,7 @@
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://livebytsctbu.vtvprime.vn/mean/THETHAO_TINTUC_HD/manifest.mpd",
@@ -1099,46 +1099,6 @@
     },
     "proxy": false,
     "sort_order": 2
-  },
-  {
-    "id": "event-mixed-martial-arts-bkfc-vs-bkfc-1792281600-s1",
-    "name": "BKFC vs BKFC (FUBO SPORTS - AQ )",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
-    "headers": {},
-    "drm": {
-      "type": "clearkey",
-      "kid": "fa5e8db5359fc7d1f15207d5de2a3ac4",
-      "key": "78a6c0a41972dfdba2145ae0ad4bd681"
-    },
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-mixed-martial-arts-bkfc-vs-bkfc-1792281600-s2",
-    "name": "BKFC vs BKFC (PlayZtv - AQ )",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-    "headers": {},
-    "drm": {
-      "type": "clearkey",
-      "kid": "1918ddf008413696077e06138983c5f9",
-      "key": "2d66e0d80ca9ac6ad8b8c230a97f74b4"
-    },
-    "proxy": false,
-    "sort_order": 1
   },
   {
     "id": "event-football-pakistan-vs-india-1793871000-s1",
@@ -1239,30 +1199,30 @@
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+    "stream_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
     "headers": {},
     "drm": {
       "type": "clearkey",
-      "kid": "ede638607823805e7767784e4558292b",
-      "key": "91fccc57c058218c2a22fa21f378a1af"
+      "kid": "012110afbe9bdf40e7da3cc766ad041e",
+      "key": "b2b91f89d2b223b349208e44e5ff49da"
     },
     "proxy": false,
     "sort_order": 0
   },
   {
     "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s2",
-    "name": "Pakistan vs Sri Lanka (TAPMAD BD - AQ )",
+    "name": "Pakistan vs Sri Lanka (TAPMAD - AQ )",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8",
+    "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
     "headers": {
       "referer": "https://tapmad.com/"
     },
@@ -1272,48 +1232,82 @@
   },
   {
     "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s3",
-    "name": "Pakistan vs Sri Lanka (WILLOW S2 - AQ)",
+    "name": "Pakistan vs Sri Lanka (WILLOW S2 - AQ )",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
+    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7mtkevhkp8/out/v1/0e763683a5224a2f8203d7f457fe0a96/cenc.mpd",
     "headers": {},
     "drm": {
       "type": "clearkey",
-      "kid": "ede638607823805e7767784e4558292b",
-      "key": "91fccc57c058218c2a22fa21f378a1af"
+      "kid": "e37c80506a66e5c7aa2613b5e8254e07",
+      "key": "22fb176c5e8295133385d975520b150c"
     },
     "proxy": false,
     "sort_order": 2
   },
   {
     "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s4",
-    "name": "Pakistan vs Sri Lanka (TAMASHA - AQ )",
+    "name": "Pakistan vs Sri Lanka (TAPMAD PK - AQ)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1",
-    "headers": {},
+    "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+    "headers": {
+      "referer": "https://tapmad.com/"
+    },
     "drm": null,
     "proxy": false,
     "sort_order": 3
   },
   {
     "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s5",
-    "name": "Pakistan vs Sri Lanka (TAPMAD PK - AQ)",
+    "name": "Pakistan vs Sri Lanka (TAMASHA - AQ )",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1",
+    "headers": {},
+    "drm": null,
+    "proxy": false,
+    "sort_order": 4
+  },
+  {
+    "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s6",
+    "name": "Pakistan vs Sri Lanka (VETO IN - AQ )",
+    "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://daviscup-veto.akamaized.net/f98c8ae68a354ab59a4e28e3dd700d4f/playlist.m3u8",
+    "headers": {},
+    "drm": null,
+    "proxy": false,
+    "sort_order": 5
+  },
+  {
+    "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s7",
+    "name": "Pakistan vs Sri Lanka (TAPMAD HD)",
+    "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8",
@@ -1322,41 +1316,23 @@
     },
     "drm": null,
     "proxy": false,
-    "sort_order": 4
+    "sort_order": 6
   },
   {
-    "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s6",
+    "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s8",
     "name": "Pakistan vs Sri Lanka (PTV SPORTS HD)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+    "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
     "headers": {},
     "drm": null,
     "proxy": false,
-    "sort_order": 5
-  },
-  {
-    "id": "event-cricket-pakistan-vs-sri-lanka-1792310400-s7",
-    "name": "Pakistan vs Sri Lanka (SD STREAM )",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "http://193.47.62.41/hls/krrr.m3u8",
-    "headers": {
-      "referer": "http://www.fawanews.sc/"
-    },
-    "drm": null,
-    "proxy": false,
-    "sort_order": 6
+    "sort_order": 7
   },
   {
     "id": "event-football-fc-barcelona-vs-real-madrid-1792958400-s1",
@@ -1485,6 +1461,66 @@
     "drm": null,
     "proxy": false,
     "sort_order": 0
+  },
+  {
+    "id": "event-cycling-uci-cycling-vs-uci-cycling-1792301400-s1",
+    "name": "UCI Cycling vs UCI Cycling (TNT SPORTS - AQ )",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+    "headers": {},
+    "drm": {
+      "type": "clearkey",
+      "kid": "69a5aa835a061ce64a630d1046727e40",
+      "key": "d02feac8a999bd06bf4059bf33411749"
+    },
+    "proxy": false,
+    "sort_order": 0
+  },
+  {
+    "id": "event-cycling-uci-cycling-vs-uci-cycling-1792301400-s2",
+    "name": "UCI Cycling vs UCI Cycling (EUROSPORT CZ - AQ )",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+    "headers": {
+      "user-agent": "Mozilla/5.0"
+    },
+    "drm": {
+      "type": "clearkey",
+      "kid": "11223344556677889900112233445566",
+      "key": "4b80724d0ef86bcb2c21f7999d67739d"
+    },
+    "proxy": false,
+    "sort_order": 1
+  },
+  {
+    "id": "event-cycling-uci-cycling-vs-uci-cycling-1792301400-s3",
+    "name": "UCI Cycling vs UCI Cycling (EUROSPORT EN - AQ )",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLOhEY-4-67KmnIjtU7KDjSFShE2pWpKMiHfZ7rN_ZMnOozDg-t6S4GNk&s=10",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": false,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://spovt.ru/bpk-tv/000002479/tve/index.m3u8",
+    "headers": {
+      "referer": "https://spovt.ru"
+    },
+    "drm": null,
+    "proxy": false,
+    "sort_order": 2
   },
   {
     "id": "event-american-football-philadelphia-eagles-vs-carolina-panthers-1792342800-s1",
@@ -1679,191 +1715,33 @@
     "sort_order": 0
   },
   {
-    "id": "event-rugby-new-zealand-vs-fiji-1792291800-s1",
-    "name": "New Zealand vs Fiji (PREMIER SPORTS - AQ )",
-    "logo": "http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-    "headers": {},
-    "drm": {
-      "type": "clearkey",
-      "kid": "1a5df53609ebc9857898c490f4724918",
-      "key": "77f62980d582ec541280796acf8b2d19"
-    },
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-rugby-new-zealand-vs-fiji-1792291800-s2",
-    "name": "New Zealand vs Fiji (PlayZ TV Live)",
-    "logo": "http://api.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "Ok",
-    "headers": {},
-    "drm": null,
-    "proxy": false,
-    "sort_order": 1
-  },
-  {
-    "id": "event-rugby-fiji-vs-cook-islands-1792299900-s1",
-    "name": "Fiji vs Cook Islands (PREMIER SPORTS - AQ )",
-    "logo": "http://api.sofascore.com/api/v1/unique-tournament/431/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-    "headers": {},
-    "drm": {
-      "type": "clearkey",
-      "kid": "1a5df53609ebc9857898c490f4724918",
-      "key": "77f62980d582ec541280796acf8b2d19"
-    },
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-rugby-fiji-vs-cook-islands-1792299900-s2",
-    "name": "Fiji vs Cook Islands (PlayZ TV Live)",
-    "logo": "http://api.sofascore.com/api/v1/unique-tournament/431/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "Ok",
-    "headers": {},
-    "drm": null,
-    "proxy": false,
-    "sort_order": 1
-  },
-  {
-    "id": "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s1",
-    "name": "Utah Mammoth vs Edmonton Oilers (S1)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://chatgpt.hereisman.net/playlist/58237/load-playlist?",
-    "headers": {
-      "Referer": "https://gooz.aapmains.net"
-    },
-    "drm": null,
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s2",
-    "name": "Utah Mammoth vs Edmonton Oilers (PlayZ TV Live)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "Ok",
-    "headers": {},
-    "drm": null,
-    "proxy": false,
-    "sort_order": 1
-  },
-  {
-    "id": "event-hockey-utah-mammoth-vs-edmonton-oilers-1792288800-s3",
-    "name": "Utah Mammoth vs Edmonton Oilers (HD)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://edgestream7.pro/hls/hefbafbakx28.m3u8?",
-    "headers": {
-      "Referer": "https://streamscenter.online/",
-      "Origin": "https://streamscenter.online"
-    },
-    "drm": null,
-    "proxy": false,
-    "sort_order": 2
-  },
-  {
-    "id": "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s1",
-    "name": "Vegas Golden Knights vs Pittsburgh Penguins (S1)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://chatgpt.hereisman.net/playlist/58235/load-playlist?",
-    "headers": {
-      "Referer": "https://gooz.aapmains.net"
-    },
-    "drm": null,
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s2",
-    "name": "Vegas Golden Knights vs Pittsburgh Penguins (PlayZ TV Live)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "Ok",
-    "headers": {},
-    "drm": null,
-    "proxy": false,
-    "sort_order": 1
-  },
-  {
-    "id": "event-hockey-vegas-golden-knights-vs-pittsburgh-penguins-1792288800-s3",
-    "name": "Vegas Golden Knights vs Pittsburgh Penguins (HD)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?",
-    "headers": {
-      "Referer": "https://streamscenter.online/",
-      "Origin": "https://streamscenter.online"
-    },
-    "drm": null,
-    "proxy": false,
-    "sort_order": 2
-  },
-  {
     "id": "event-cricket-south-africa-vs-australia-1792310400-s1",
+    "name": "South Africa vs Australia (WILLOW - AQ)",
+    "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
+    "headers": {},
+    "drm": {
+      "type": "clearkey",
+      "kid": "783624418a73874b1bacbd79dda56c44",
+      "key": "9c3a8a06ed069e28aa86c5e22dfeae67"
+    },
+    "proxy": false,
+    "sort_order": 0
+  },
+  {
+    "id": "event-cricket-south-africa-vs-australia-1792310400-s2",
     "name": "South Africa vs Australia (FANCODE - AQ)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
@@ -1872,26 +1750,6 @@
       "type": "clearkey",
       "kid": "82dfca238e8c4b430a3269db71965db9",
       "key": "a00b28caf4ac628e77a553d440c0ddca"
-    },
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-cricket-south-africa-vs-australia-1792310400-s2",
-    "name": "South Africa vs Australia (WILLOW - AQ)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": false,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd",
-    "headers": {},
-    "drm": {
-      "type": "clearkey",
-      "kid": "7578716f99caa689b9a4d2bdce753651",
-      "key": "24d34e5d771ed71f519c8f8e971c3bd8"
     },
     "proxy": false,
     "sort_order": 1
@@ -1903,7 +1761,7 @@
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
     "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
@@ -1914,67 +1772,109 @@
   },
   {
     "id": "event-cricket-south-africa-vs-australia-1792310400-s4",
-    "name": "South Africa vs Australia (TAPMAD - AQ)",
+    "name": "South Africa vs Australia (WILLOW S2 - AQ)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
-    "headers": {
-      "referer": "https://tapmad.com/"
+    "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd",
+    "headers": {},
+    "drm": {
+      "type": "clearkey",
+      "kid": "783624418a73874b1bacbd79dda56c44",
+      "key": "9c3a8a06ed069e28aa86c5e22dfeae67"
     },
-    "drm": null,
     "proxy": false,
     "sort_order": 3
   },
   {
     "id": "event-cricket-south-africa-vs-australia-1792310400-s5",
-    "name": "South Africa vs Australia (FOX CRICKET HD)",
+    "name": "South Africa vs Australia (TAPMAD - AQ)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-    "headers": {},
+    "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+    "headers": {
+      "referer": "https://tapmad.com/"
+    },
     "drm": null,
     "proxy": false,
     "sort_order": 4
   },
   {
     "id": "event-cricket-south-africa-vs-australia-1792310400-s6",
-    "name": "South Africa vs Australia (SKY CRICKET HD)",
+    "name": "South Africa vs Australia (FOX CRICKET HD)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8",
+    "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
     "headers": {},
     "drm": null,
     "proxy": false,
     "sort_order": 5
   },
   {
+    "id": "event-cricket-south-africa-vs-australia-1792310400-s7",
+    "name": "South Africa vs Australia (SKY CRICKET HD)",
+    "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8",
+    "headers": {},
+    "drm": null,
+    "proxy": false,
+    "sort_order": 6
+  },
+  {
+    "id": "event-cricket-south-africa-vs-australia-1792310400-s8",
+    "name": "South Africa vs Australia (SD STREAM )",
+    "logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "category": "events",
+    "country": "",
+    "language": "",
+    "is_live": true,
+    "is_trending": false,
+    "quality": "HD",
+    "stream_url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8",
+    "headers": {
+      "referer": "http://www.fawanews.sc/"
+    },
+    "drm": null,
+    "proxy": false,
+    "sort_order": 7
+  },
+  {
     "id": "event-cricket-australia-women-vs-new-zealand-women-1792311300-s1",
-    "name": "Australia Women vs New Zealand Women (PlayZ TV Live)",
+    "name": "Australia Women vs New Zealand Women (WILLOW SPORTS)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
     "category": "events",
     "country": "",
     "language": "",
-    "is_live": false,
+    "is_live": true,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "Ok",
+    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "headers": {},
-    "drm": null,
+    "drm": {
+      "type": "clearkey",
+      "kid": "290e09c837da78d5cd961978d390515c",
+      "key": "b748836c71e6a4ca68ef5b5652db6247"
+    },
     "proxy": false,
     "sort_order": 0
   },
@@ -2172,7 +2072,7 @@
   },
   {
     "id": "event-football-udinese-vs-lecce-1792319400-s1",
-    "name": "Udinese vs Lecce (PlayZ TV Live)",
+    "name": "Udinese vs Lecce (beIN SPORTS FHD)",
     "logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
     "category": "events",
     "country": "",
@@ -2180,9 +2080,15 @@
     "is_live": false,
     "is_trending": false,
     "quality": "HD",
-    "stream_url": "Ok",
-    "headers": {},
-    "drm": null,
+    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "drm": {
+      "type": "clearkey",
+      "kid": "0b42be2664d7e811d04f3e504e0924c5",
+      "key": "ae24090123b8c72ac5404dc152847cb8"
+    },
     "proxy": false,
     "sort_order": 0
   },
@@ -2663,28 +2569,6 @@
     "stream_url": "Ok",
     "headers": {},
     "drm": null,
-    "proxy": false,
-    "sort_order": 0
-  },
-  {
-    "id": "event-football-cruz-azul-vs-fc-juárez-1792293000-s1",
-    "name": "Cruz Azul vs FC Juárez (PlayZ TV Live)",
-    "logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-    "category": "events",
-    "country": "",
-    "language": "",
-    "is_live": true,
-    "is_trending": false,
-    "quality": "HD",
-    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "drm": {
-      "type": "clearkey",
-      "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-      "key": "01be3f645e89a067d2786c295f68dde4"
-    },
     "proxy": false,
     "sort_order": 0
   },
