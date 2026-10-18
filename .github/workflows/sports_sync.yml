@@ -34,7 +34,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          ADMIN_SECRET_TOKEN: ${{ secrets.ADMIN_SECRET_TOKEN }}
+          ADMIN_SECRET_TOKEN: ${{ secrets.ADMIN_SECRET_TOKEN || 'GoLiveAdminSecret2026' }}
           MAX_WORKERS: 16
           PURGE_HOURS: 3
         run: |

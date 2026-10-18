@@ -50,7 +50,7 @@ SUPABASE_ANON_KEY = os.environ.get(
     "SUPABASE_ANON_KEY",
     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhxbWh1dnNqbHlrcmR1c2ZrbWVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI4MjI3OTEsImV4cCI6MjA5ODM5ODc5MX0.sfNEW7QG0idyVVRHlDtYjITDfIbsFQQm2u9a3ffoNoA"
 )
-SUPABASE_ADMIN_TOKEN = os.environ.get("ADMIN_SECRET_TOKEN") or os.environ.get("SUPABASE_ADMIN_TOKEN", "GoLiveAdminSecret2026")
+SUPABASE_ADMIN_TOKEN = (os.environ.get("ADMIN_SECRET_TOKEN") or os.environ.get("SUPABASE_ADMIN_TOKEN") or "GoLiveAdminSecret2026").strip()
 
 EVENTS_FEED_URL = os.environ.get("EVENTS_FEED_URL", "https://pabbdyzone.shop/events.txt")
 BASE_PRO_URL = os.environ.get("BASE_PRO_URL", "https://pabbdyzone.shop/")
@@ -236,11 +236,13 @@ class SupabaseSyncClient:
             self.headers["apikey"] = service_key
             self.headers["Authorization"] = f"Bearer {service_key}"
         else:
-            logger.info("Using SUPABASE_ANON_KEY with x-admin-token for authentication.")
+            logger.info("Using SUPABASE_ANON_KEY for authentication.")
             self.headers["apikey"] = anon_key
             self.headers["Authorization"] = f"Bearer {anon_key}"
-            if admin_token:
-                self.headers["x-admin-token"] = admin_token
+
+        if admin_token:
+            self.headers["x-admin-token"] = admin_token
+
 
     def upsert_rows(self, table: str, rows: list, batch_size: int = 100) -> int:
         if not rows:
